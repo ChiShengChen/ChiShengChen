@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   Co-founder @ Neuro Industry & Ising Research ｜ AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
-  ex-MediaTek, ex-Max Planck Institute  
+  ex-MediaTek, ex-Max Planck Institute <br>  
   Passionate about transforming data into intelligence 🧠⚡️  
 
 </p>
