@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🧠 Founder of Neuro Industry, building the first EEG Foundation Model.
-- 🧪 Researcher at Harvard Medical School (AI x EEG x Psychiatry).
+- 🧠 Founder of Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
+- 🧪 Researcher at Harvard Medical School (AI x Surgical Informatics).
 - 🌱 Currently exploring Quantum Machine Learning and Brain-Computer Interfaces.
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
