@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 - 🐦 Twitter: [@ChiShengChen](https://twitter.com/ChiShengChen)
 - 🌐 Website: [https://neuroindustry.ai](https://neuroindustry.ai)
 -->
-- ✉️ Email: michael@neuroindustry.ai
+- ✉️ Email: m50816m50816@gmail.com
 
 ---
 
