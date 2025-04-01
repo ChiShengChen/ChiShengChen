@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  Made with ❤️ from Taiwan 🇹🇼
-</p>
+<!-- <p align="center"> -->
+<!--   Made with ❤️ from Taiwan 🇹🇼 -->
+<!-- </p> -->
 
