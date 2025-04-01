@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 - [🧠 MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
   Mind’s Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning.  
-- [📚 EEG Datasets](https://github.com/ChiShengChen/EEG-Datasets)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/EEG-Datasets?style=social)  
-  A comprehensive curated list of publicly available EEG datasets for research and BCI tasks.
+
 
 #### ⚛️ Quantum Machine Learning (QML)
 - [🌀 Quantum MNIST Diffusion](https://github.com/ChiShengChen/Quantum_MNIST_Diffusion)  
