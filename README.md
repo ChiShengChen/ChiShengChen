@@ -49,21 +49,21 @@ Here are some ideas to get you started:
 - [🌀 Quantum MNIST Diffusion](https://github.com/ChiShengChen/Quantum_MNIST_Diffusion)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/Quantum_MNIST_Diffusion?style=social)  
   Quantum-enhanced diffusion models for image generation, bridging medical imaging and quantum computing.  
-- [🧬 QEEGNet](https://github.com/ChiShengChen/QEEGNet)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/QEEGNet?style=social)  
+- [🧬 QEEGNet](https://github.com/ChiShengChen/QuantumEEGNet)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumEEGNet?style=social)  
   Hybrid quantum-classical encoder model for EEG representation learning.
 
 #### 🧬 Classical Diffusion & Image Generation
-- [🧠 Necomimi](https://github.com/ChiShengChen/Necomimi)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/Necomimi?style=social)  
+- [🧠 Necomimi](https://github.com/ChiShengChen/NECOMIMI)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/NECOMIMI?style=social)  
   EEG-to-Image generation using diffusion models with neural cognitive alignment.
 
 #### 📊 EEG Survey & Control Systems
-- [📊 EEG Dataset Survey Paper](https://github.com/ChiShengChen/eeg-dataset-survey)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/eeg-dataset-survey?style=social)  
+- [📊 EEG Dataset Survey Paper](https://github.com/ChiShengChen/EEG-Datasets)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/EEG-Datasets?style=social)  
   A survey of public EEG datasets for machine learning and BCI.  
-- [🤖 Psycho Gundam](https://github.com/ChiShengChen/psycho-gundam)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/psycho-gundam?style=social)  
+- [🤖 Psycho Gundam](https://github.com/ChiShengChen/PSYCHO_GUNDAM)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/PSYCHO_GUNDAM?style=social)  
   EEG-based real-time robotic control system using EMOTIV+ and deep learning.
 
 #### 🖼️ Computer Vision
