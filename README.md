@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <p align="center">
   CTO @ Neuro Industry & Ising Research ｜ AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>
   Passionate about transforming data into intelligence 🧠⚡️
+  ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-80%20citations-blue)
+
 </p>
 
 ---
@@ -34,6 +36,8 @@ Here are some ideas to get you started:
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
 -->
+- 🎓 My research publications are listed on [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW).
+
 ---
 
 ### 📌 Pinned Projects
