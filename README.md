@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Michael Chi-Sheng Chen</h1>
 
 <p align="center">
-  CTO @ Neuro Industry ｜ AI Researcher ｜ EEG + Quantum ML + Diffusion<br>
-  Passionate about transforming brainwaves into intelligence 🧠⚡️
+  CTO @ Neuro Industry ｜ AI Researcher ｜ Biomediacl AI + Quantum ML + Time-Series<br>
+  Passionate about transforming data into intelligence 🧠⚡️
 </p>
 
 ---
