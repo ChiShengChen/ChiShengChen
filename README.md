@@ -104,7 +104,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChiShengChen&show_icons=true&theme=default" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiShengChen&layout=compact" width="380"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiShengChen&layout=compact" width="380"/> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiShengChen&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ---
