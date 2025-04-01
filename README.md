@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🧠 Founder of Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
 - 🧪 Researcher at Harvard Medical School (AI x Surgical Informatics).
+- 🧠 Founder of Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
+- 🔐 DeFAI Researcher at Ising Research (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
 -->
-- 🎓 My research publications are listed on [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW).
+- 🎓 My research publications are listed on [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW).  
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-80%20citations-blue)
 ---
 
