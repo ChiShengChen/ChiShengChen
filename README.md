@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Michael Chi-Sheng Chen</h1>
 
 <p align="center">
-  CTO @ Neuro Industry ｜ AI Researcher ｜ Biomediacl AI + Quantum ML + Time-Series<br>
+  CTO @ Neuro Industry & Ising Research ｜ AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>
   Passionate about transforming data into intelligence 🧠⚡️
 </p>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🧠 Founder of Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
 - 🧪 Researcher at Harvard Medical School (AI x Surgical Informatics).
-- 🌱 Currently exploring Quantum Machine Learning and Brain-Computer Interfaces.
+- 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
 -->
