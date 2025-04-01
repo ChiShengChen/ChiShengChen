@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🧪 Researcher at Harvard Medical School (AI x Surgical Informatics).
+- 🧪 Researcher at Harvard Medical School & BIDMC (AI x Surgical Informatics).
 - 🧠 Co-founder of Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
 - 🔐 DeFAI Researcher at Ising Research (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
