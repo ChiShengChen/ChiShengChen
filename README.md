@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 
 ### 📌 Pinned Projects
 
+#### 🖼️ Computer Vision
+- [Res-VMamba](https://github.com/ChiShengChen/ResVMamba)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
+  Fine-grained food classification using state space models with residual learning.
+
 #### 🧠 EEG & Multimodal AI
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
@@ -71,10 +76,6 @@ Here are some ideas to get you started:
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/PSYCHO_GUNDAM?style=social)  
   EEG-based real-time robotic control system using EMOTIV+ and deep learning.
 
-#### 🖼️ Computer Vision
-- [Res-VMamba](https://github.com/ChiShengChen/ResVMamba)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
-  Fine-grained food classification using state space models with residual learning.
 
 #### 🧪 Deep Learning Tutorial
 - [PyTorch Medical Image Tutorial](https://github.com/ChiShengChen/pytorch_deep_learning_medimg_tutorial)  
