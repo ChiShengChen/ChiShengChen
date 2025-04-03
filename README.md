@@ -88,7 +88,9 @@ Here are some ideas to get you started:
 #### 🔗 Blockchain Practice
 - [Solana Demo Tutorial](https://github.com/ChiShengChen/Solana_Demo_Tutorial)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/Solana_Demo_Tutorial?style=social)  
-  A basic Solana smart contract demo using Rust and TypeScript, deployed on devnet.  
+  A basic Solana smart contract demo using Rust and TypeScript, deployed on devnet.
+- [Solana_PDA_Practice](https://github.com/ChiShengChen/Solana_PDA_Practice)
+  This repository demonstrates a simple Solana program that manages user data accounts with messages that can be updated through PDA.
 - [Blockchain from Scratch](https://github.com/ChiShengChen/blockchain_practice)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/blockchain_practice?style=social)  
   A practice project building blockchain systems from the ground up.
