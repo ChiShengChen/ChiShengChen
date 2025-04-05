@@ -64,8 +64,8 @@ Here are some ideas to get you started:
   Hybrid quantum-classical encoder model for EEG representation learning.
 
 #### 🧬 Classical Diffusion & Image Generation
-- [Necomimi](https://github.com/ChiShengChen/NECOMIMI)  
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/NECOMIMI?style=social)  
+- [Necomimi](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/EEG_gen_img_NECOMIMI?style=social)  
   EEG-to-Image generation using diffusion models with neural cognitive alignment.
 
 #### 🤖 EEG Survey & Control Systems
