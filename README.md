@@ -66,6 +66,12 @@ Here are some ideas to get you started:
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)  
   [ICASSP2025]EEG-image data analysis and processing on quantum computing.
 
+#### ⏳ Time-series Deep Learning
+- [BTSPFormer](https://github.com/ChiShengChen/BTSPFormer)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/BTSPFormer?style=social)  
+  Transformer-based time-series model inspired by behavioral-timescale synaptic plasticity (BTSP), designed for predictive learning on damped signals.
+
+
 #### 🧬 Classical Diffusion & Image Generation
 - [Necomimi](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/EEG_gen_img_NECOMIMI?style=social)  
