@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - [QEEGNet](https://github.com/ChiShengChen/QuantumEEGNet)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumEEGNet?style=social)  
   Hybrid quantum-classical encoder model for EEG representation learning.
-- [[Quantum Contrastive Learning]](https://github.com/ChiShengChen/QCL)  
+- [Quantum Contrastive Learning](https://github.com/ChiShengChen/QCL)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)  
   [ICASSP2025]EEG-image data analysis and processing on quantum computing.
 
