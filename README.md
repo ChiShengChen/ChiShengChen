@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 - [Solana Demo Tutorial](https://github.com/ChiShengChen/Solana_Demo_Tutorial)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/Solana_Demo_Tutorial?style=social)  
   A basic Solana smart contract demo using Rust and TypeScript, deployed on devnet.
-- [Solana PDA Practice](https://github.com/ChiShengChen/Solana_PDA_Practice)
+- [Solana PDA Practice](https://github.com/ChiShengChen/Solana_PDA_Practice)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/Solana_PDA_Practice?style=social)  
   This repository demonstrates a simple Solana program that manages user data accounts with messages that can be updated through PDA.
-- [Anchor Solana PDA](https://github.com/ChiShengChen/anchor_solana_pda)
+- [Anchor Solana PDA](https://github.com/ChiShengChen/anchor_solana_pda)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/anchor_solana_pda?style=social)  
   A simple Solana program built with the Anchor framework demonstrating the initialization of a Program Derived Address (PDA).
 - [Blockchain from Scratch](https://github.com/ChiShengChen/blockchain_practice)  
