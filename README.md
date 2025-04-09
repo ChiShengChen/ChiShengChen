@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 - [Quantum Contrastive Learning](https://github.com/ChiShengChen/QCL)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)  
   [ICASSP2025]EEG-image data analysis and processing on quantum computing.
-- [Quantum Adaptive Self-Attention](https://github.com/ChiShengChen/QASA/tree/main)
-  ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)
+- [Quantum Adaptive Self-Attention](https://github.com/ChiShengChen/QASA/tree/main)  
+  ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
   QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models.
 
 
