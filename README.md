@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 - [Quantum Adaptive Self-Attention](https://github.com/ChiShengChen/QASA/tree/main)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
   QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models.
+- [QuantumRWKV](https://github.com/ChiShengChen/QuantumRWKV)
+  Quantum-Enhanced Channel Mixing in RWKV Models for Time Series Forecasting  
 
 
 #### ⏳ Time-series Deep Learning
