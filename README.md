@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models.
 - [QuantumRWKV](https://github.com/ChiShengChen/QuantumRWKV)  
   Quantum-Enhanced Channel Mixing in RWKV Models for Time Series Forecasting
-- [Vision-QRWKV](https://github.com/ChiShengChen/Vision_QRWKV)
+- [Vision-QRWKV](https://github.com/ChiShengChen/Vision_QRWKV)  
   Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 
 
