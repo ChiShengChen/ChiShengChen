@@ -102,6 +102,7 @@ Here are some ideas to get you started:
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/Deep_learning_introducrion?style=social)  
   A step-by-step PyTorch tutorial for deep learning beginners.
 - [LLM Finetune Turoeial](https://github.com/ChiShengChen/LLM_Finetune_Tutorial)
+  This project provides comprehensive examples and scripts for fine-tuning and interacting with Large Language Models (LLMs) using three popular toolkits: DeepSpeed, NVIDIA NeMo, and Unsloth.
 
 #### 🔗 Blockchain Practice
 - [Solana Demo Tutorial](https://github.com/ChiShengChen/Solana_Demo_Tutorial)  
