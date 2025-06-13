@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 🎓 My research publications are listed on [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW).  
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-122%20citations-blue)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-132%20citations-blue)
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
@@ -69,7 +69,9 @@ Here are some ideas to get you started:
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
   QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models.
 - [QuantumRWKV](https://github.com/ChiShengChen/QuantumRWKV)  
-  Quantum-Enhanced Channel Mixing in RWKV Models for Time Series Forecasting  
+  Quantum-Enhanced Channel Mixing in RWKV Models for Time Series Forecasting
+- [Vision-QRWKV](https://github.com/ChiShengChen/Vision_QRWKV)
+  Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 
 
 #### ⏳ Time-series Deep Learning
