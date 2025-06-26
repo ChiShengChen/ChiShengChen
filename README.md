@@ -94,7 +94,8 @@ Here are some ideas to get you started:
   EEG-based real-time robotic control system using EMOTIV+ and deep learning.
 
 
-#### 🧪 Deep Learning Tutorial
+#### 🧪 Machine/Deep Learning Tutorial
+- [Python 101 in zh](https://github.com/ChiShengChen/python101_zh)
 - [PyTorch Medical Image Tutorial](https://github.com/ChiShengChen/pytorch_deep_learning_medimg_tutorial)  
   ![Stars](https://img.shields.io/github/stars/ChiShengChen/pytorch_deep_learning_medimg_tutorial?style=social)  
   Three deep learning models (VGG16, ResNet18, ViT) on the PathMNIST dataset.  
