@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 
 #### 🧪 Machine/Deep Learning Tutorial
-- [Python 101 in zh](https://github.com/ChiShengChen/python101_zh) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python101_zh?style=social)
+- [Python 101 in zh](https://github.com/ChiShengChen/python101_zh) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python101_zh?style=social)  
   Simple python tutorial for beginners in chinese.  
 - [PyTorch Medical Image Tutorial](https://github.com/ChiShengChen/pytorch_deep_learning_medimg_tutorial) ![Stars](https://img.shields.io/github/stars/ChiShengChen/pytorch_deep_learning_medimg_tutorial?style=social)  
   Three deep learning models (VGG16, ResNet18, ViT) on the PathMNIST dataset.  
