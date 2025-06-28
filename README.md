@@ -62,9 +62,9 @@ Here are some ideas to get you started:
   [ICASSP2025](https://ieeexplore.ieee.org/document/10889504?fbclid=IwY2xjawJumZhleHRuA2FlbQIxMQABHmzsAH55thZPfYpNFgFkOAmufZHTn8H7IoiRmMyT3j5OT57eJ_DQwu8E7pKV_aem_cW2CHmFczWUo8ajuGymXcQ)EEG-image data analysis and processing on quantum computing.
 - [Quantum Adaptive Self-Attention](https://github.com/ChiShengChen/QASA/tree/main) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
   QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models.
-- [QuantumRWKV](https://github.com/ChiShengChen/QuantumRWKV)  
+- [QuantumRWKV](https://github.com/ChiShengChen/QuantumRWKV) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumRWKV?style=social)  
   Quantum-Enhanced Channel Mixing in RWKV Models for Time Series Forecasting
-- [Vision-QRWKV](https://github.com/ChiShengChen/Vision_QRWKV)  
+- [Vision-QRWKV](https://github.com/ChiShengChen/Vision_QRWKV) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Vision_QRWKV?style=social)  
   Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 
 
@@ -85,12 +85,13 @@ Here are some ideas to get you started:
 
 
 #### 🧪 Machine/Deep Learning Tutorial
-- [Python 101 in zh](https://github.com/ChiShengChen/python101_zh)
+- [Python 101 in zh](https://github.com/ChiShengChen/python101_zh) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python101_zh?style=social)
+  Simple python tutorial for beginners in chinese.  
 - [PyTorch Medical Image Tutorial](https://github.com/ChiShengChen/pytorch_deep_learning_medimg_tutorial) ![Stars](https://img.shields.io/github/stars/ChiShengChen/pytorch_deep_learning_medimg_tutorial?style=social)  
   Three deep learning models (VGG16, ResNet18, ViT) on the PathMNIST dataset.  
 - [Deep Learning Introduction](https://github.com/ChiShengChen/Deep_learning_introducrion) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Deep_learning_introducrion?style=social)  
   A step-by-step PyTorch tutorial for deep learning beginners.
-- [LLM Finetune Turoeial](https://github.com/ChiShengChen/LLM_Finetune_Tutorial)  
+- [LLM Finetune Turoeial](https://github.com/ChiShengChen/LLM_Finetune_Tutorial) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LLM_Finetune_Tutorial?style=social)  
   This project provides comprehensive examples and scripts for fine-tuning and interacting with Large Language Models (LLMs) using three popular toolkits: DeepSpeed, NVIDIA NeMo, and Unsloth.
 
 #### 🔗 Blockchain Practice
