@@ -50,8 +50,10 @@ Here are some ideas to get you started:
 
 #### 🧠 EEG & Multimodal AI
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
-  Mind’s Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning.  
+  Mind’s Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning.
 
+#### Natual Language Processing  
+- [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
 
 #### ⚛️ Quantum Machine Learning (QML)
 - [Quantum MNIST Diffusion](https://github.com/ChiShengChen/Quantum_MNIST_Diffusion) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Quantum_MNIST_Diffusion?style=social)  
