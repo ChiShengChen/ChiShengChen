@@ -73,6 +73,10 @@ Here are some ideas to get you started:
 #### ⏳ Time-series Deep Learning
 - [BTSPFormer](https://github.com/ChiShengChen/BTSPFormer) ![Stars](https://img.shields.io/github/stars/ChiShengChen/BTSPFormer?style=social)  
   Transformer-based time-series model inspired by behavioral-timescale synaptic plasticity (BTSP), designed for predictive learning on damped signals.
+- [DeFi Benchmark on Curve.fi](https://github.com/ChiShengChen/Quantum_DeFi_Curve)  
+  Predict Curve Pool Virtual Price changes using Random Forest, LSTM, Transformer and QNN (Quantum Neural Network) models.
+- [Curve Pool Intelligent Prediction System](https://github.com/ChiShengChen/curve_data_ai)  
+  Real-time prediction of Curve pool Virtual Price changes, intelligently identifying the best investment opportunities.  
 
 
 #### 🧬 Classical Diffusion & Image Generation
