@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Michael Chi-Sheng Chen</h1>
 
 <p align="center">
-  Co-founder @ Neuro Industry Research & Omnis Labs ｜ AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
+  Co-founder @ Omnis Labs ｜ AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
   Harvard Medical School & BIDMC, ex-MediaTek, ex-Max Planck Institute <br>  
   Passionate about transforming data into intelligence 🧠⚡️  
 
