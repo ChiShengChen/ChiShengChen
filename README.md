@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
-  Harvard Medical School & BIDMC, ex-MediaTek, ex-Max Planck Institute <br>  
+  Harvard Medical School & BIDMC,ex-OpenAI, ex-MediaTek, ex-Max Planck Institute <br>  
   Passionate about transforming data into intelligence 🧠⚡️  
 
 </p>
