@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 #### 🈵 Natual Language Processing  
 - [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
-
+- [Chinese BERT Fineture](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune) 
 #### ⚛️ Quantum Machine Learning (QML)
 - [Quantum MNIST Diffusion](https://github.com/ChiShengChen/Quantum_MNIST_Diffusion) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Quantum_MNIST_Diffusion?style=social)  
   Quantum-enhanced diffusion models for image generation, bridging medical imaging and quantum computing.  
