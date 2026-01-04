@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 - [QRL for Industry Sector Rotation](https://github.com/ChiShengChen/QuantumRL_TW_sector_rotation) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumRL_TW_sector_rotation?style=social)  
   This project implements a Quantum Reinforcement Learning (QRL) agent for the task of industry sector rotation in the stock market.
+- [QML for text gen](https://github.com/ChiShengChen/Quantum_text_gen)  
 
 
 #### ⏳ Time-series Deep Learning
@@ -121,7 +122,7 @@ Here are some ideas to get you started:
   Quantum vs Classical ML in AMM Trading Strategies.
 
 ### 📈 Quant Trading Research/Practive  
-- [Option Simulator](https://github.com/ChiShengChen/Option_simulator)
+- [Option Simulator](https://github.com/ChiShengChen/Option_simulator)  
   A mathematical model-based American options backtesting system that simulates option prices using mathematical models rather than relying on historical market data.  
   
 
