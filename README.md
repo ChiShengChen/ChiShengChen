@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 #### 🈵 Natual Language Processing  
 - [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
-- [Chinese BERT Fineture](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune)
+- [Chinese BERT Fineture](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune)  
   A BERT Chinese model fine-tuning project based on DeepSpeed framework, trained on TMMLU+ multi-domain Chinese Q&A dataset.
   
 #### ⚛️ Quantum Machine Learning (QML)
