@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 #### 🧠 EEG & Multimodal AI
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
   Mind’s Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning.
+- [ASR-LLM-Medical prediction pipeline](https://github.com/ChiShengChen/Broadcastify_audio_pipeline)  
+  A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining Automatic Speech Recognition (ASR) evaluation with Large Language Model (LLM) enhancement for medical term correction, information extraction, and emergency page generation.  
 
 #### 🈵 Natual Language Processing, LLM related  
 - [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
