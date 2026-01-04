@@ -117,8 +117,12 @@ Here are some ideas to get you started:
   A practice project building blockchain systems from the ground up.
 - [Uniswap V3 AMM Performance Backtesting System](https://github.com/ChiShengChen/katana_amm_backtest)  
   A backtesting system for Uniswap V3-style AMM (Automated Market Maker) performance on Katana L2 chain, using historical event data from the WBTC-USDC pool for backtest analysis.
-- [Quantum vs Classical ML in AMM Trading Strategies](https://github.com/ChiShengChen/AMM_backtest)
+- [Quantum vs Classical ML in AMM Trading Strategies](https://github.com/ChiShengChen/AMM_backtest)  
   Quantum vs Classical ML in AMM Trading Strategies.
+
+### 📈 Quant Trading Research/Practive  
+- [Option Simulator](https://github.com/ChiShengChen/Option_simulator)
+  A mathematical model-based American options backtesting system that simulates option prices using mathematical models rather than relying on historical market data.  
   
 
 #### 🌾 IoT Application
