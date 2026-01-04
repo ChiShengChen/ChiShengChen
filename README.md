@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 #### 🖼️ Computer Vision
 - [Res-VMamba](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
   Fine-grained food classification using state space models with residual learning.
+- [DL-based Eye Tracking System](https://github.com/ChiShengChen/gaze_track_webcam)  
+  The new Gaze Heatmap System provides advanced gaze tracking with ETH-XGaze as the default model (best accuracy, supports MPS GPU acceleration).  
 
 #### 🧠 EEG & Multimodal AI
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
