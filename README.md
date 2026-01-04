@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
   Mind’s Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning.
 
-#### 🈵 Natual Language Processing  
+#### 🈵 Natual Language Processing, LLM related  
 - [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
   For scraping Chinese classical texts from ctext.org.  
 - [Chinese BERT Fineture](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune)  
