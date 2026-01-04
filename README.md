@@ -115,6 +115,11 @@ Here are some ideas to get you started:
   A simple Solana program built with the Anchor framework demonstrating the initialization of a Program Derived Address (PDA).
 - [Blockchain from Scratch](https://github.com/ChiShengChen/blockchain_practice) ![Stars](https://img.shields.io/github/stars/ChiShengChen/blockchain_practice?style=social)  
   A practice project building blockchain systems from the ground up.
+- [Uniswap V3 AMM Performance Backtesting System](https://github.com/ChiShengChen/katana_amm_backtest)  
+  A backtesting system for Uniswap V3-style AMM (Automated Market Maker) performance on Katana L2 chain, using historical event data from the WBTC-USDC pool for backtest analysis.
+- [Quantum vs Classical ML in AMM Trading Strategies](https://github.com/ChiShengChen/AMM_backtest)
+  Quantum vs Classical ML in AMM Trading Strategies.
+  
 
 #### 🌾 IoT Application
 - [BugCan Pest Counter](https://github.com/ChiShengChen/pure_agri_bugcan_pest-counter) ![Stars](https://img.shields.io/github/stars/ChiShengChen/pure_agri_bugcan_pest-counter?style=social)  
