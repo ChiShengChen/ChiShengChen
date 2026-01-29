@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 - [Res-VMamba](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
   Fine-grained food classification using state space models with residual learning.
 - [DL-based Eye Tracking System](https://github.com/ChiShengChen/gaze_track_webcam)  
-  The new Gaze Heatmap System provides advanced gaze tracking with ETH-XGaze as the default model (best accuracy, supports MPS GPU acceleration).  
+  The new Gaze Heatmap System provides advanced gaze tracking with ETH-XGaze as the default model (best accuracy, supports MPS GPU acceleration).
+- [Webcam Gaze Tracker, Gaze Label Tool & Video Annotation Tool](https://github.com/ChiShengChen/webcam_gaze_webapp)
+  A web application that uses your webcam to track your eye gaze in real-time, featuring: Gaze-based Image Labeling powered by SAM (Segment Anything Model), Video Annotation Mode for recording gaze and audio commentary on videos. Built with WebGazer.js, ONNX Runtime Web, and Vite.  
 
 #### 🧠 EEG & Multimodal AI
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
