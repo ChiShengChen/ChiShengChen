@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 - [Vision-QRWKV](https://github.com/ChiShengChen/Vision_QRWKV) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Vision_QRWKV?style=social)  
   Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 - [QRL for Industry Sector Rotation](https://github.com/ChiShengChen/QuantumRL_TW_sector_rotation) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumRL_TW_sector_rotation?style=social)  
-  This project implements a Quantum Reinforcement Learning (QRL) agent for the task of industry sector rotation in the stock market.
+  [QCE25](https://ieeexplore.ieee.org/document/11250048) This project implements a Quantum Reinforcement Learning (QRL) agent for the task of industry sector rotation in the stock market.
 - [QML for text gen](https://github.com/ChiShengChen/Quantum_text_gen)  
 
 
