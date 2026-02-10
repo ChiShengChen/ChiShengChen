@@ -56,13 +56,18 @@ Here are some ideas to get you started:
 - [MUSE EEG](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
   Mind’s Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning.
 - [ASR-LLM-Medical prediction pipeline](https://github.com/ChiShengChen/Broadcastify_audio_pipeline)  
-  A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining Automatic Speech Recognition (ASR) evaluation with Large Language Model (LLM) enhancement for medical term correction, information extraction, and emergency page generation. [Related]: [Firefox Crawler for Broadcastify Audio Archives](https://github.com/ChiShengChen/broadcastify_mp3_crawler).  
+  A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining Automatic Speech Recognition (ASR) evaluation with Large Language Model (LLM) enhancement for medical term correction, information extraction, and emergency page generation. [Related]: [Firefox Crawler for Broadcastify Audio Archives](https://github.com/ChiShengChen/broadcastify_mp3_crawler).
 
-#### 🈵 Natual Language Processing, LLM related  
-- [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
-  For scraping Chinese classical texts from ctext.org.  
-- [Chinese BERT Fineture](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune)  
-  A BERT Chinese model fine-tuning project based on DeepSpeed framework, trained on TMMLU+ multi-domain Chinese Q&A dataset.
+#### ⏳ Time-series Deep Learning
+- [FreqLens](https://github.com/ChiShengChen/FreqLens)  
+  Interpretable Frequency Attribution for Time Series Forecasting.  
+- [BTSPFormer](https://github.com/ChiShengChen/BTSPFormer) ![Stars](https://img.shields.io/github/stars/ChiShengChen/BTSPFormer?style=social)  
+  Transformer-based time-series model inspired by behavioral-timescale synaptic plasticity (BTSP), designed for predictive learning on damped signals.
+- [DeFi Benchmark on Curve.fi](https://github.com/ChiShengChen/Quantum_DeFi_Curve)  
+  Predict Curve Pool Virtual Price changes using Random Forest, LSTM, Transformer and QNN (Quantum Neural Network) models.
+- [Curve Pool Intelligent Prediction System](https://github.com/ChiShengChen/curve_data_ai)  
+  Real-time prediction of Curve pool Virtual Price changes, intelligently identifying the best investment opportunities.  
+
   
 #### ⚛️ Quantum Machine Learning (QML)
 - [Quantum MNIST Diffusion](https://github.com/ChiShengChen/Quantum_MNIST_Diffusion) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Quantum_MNIST_Diffusion?style=social)  
@@ -82,15 +87,6 @@ Here are some ideas to get you started:
 - [QML for text gen](https://github.com/ChiShengChen/Quantum_text_gen)  
 
 
-#### ⏳ Time-series Deep Learning
-- [BTSPFormer](https://github.com/ChiShengChen/BTSPFormer) ![Stars](https://img.shields.io/github/stars/ChiShengChen/BTSPFormer?style=social)  
-  Transformer-based time-series model inspired by behavioral-timescale synaptic plasticity (BTSP), designed for predictive learning on damped signals.
-- [DeFi Benchmark on Curve.fi](https://github.com/ChiShengChen/Quantum_DeFi_Curve)  
-  Predict Curve Pool Virtual Price changes using Random Forest, LSTM, Transformer and QNN (Quantum Neural Network) models.
-- [Curve Pool Intelligent Prediction System](https://github.com/ChiShengChen/curve_data_ai)  
-  Real-time prediction of Curve pool Virtual Price changes, intelligently identifying the best investment opportunities.  
-
-
 #### 🧬 Classical Diffusion & Image Generation
 - [Necomimi](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI) ![Stars](https://img.shields.io/github/stars/ChiShengChen/EEG_gen_img_NECOMIMI?style=social)  
   EEG-to-Image generation using diffusion models with neural cognitive alignment.
@@ -101,6 +97,11 @@ Here are some ideas to get you started:
 - [Psycho Gundam](https://github.com/ChiShengChen/PSYCHO_GUNDAM) ![Stars](https://img.shields.io/github/stars/ChiShengChen/PSYCHO_GUNDAM?style=social)  
   EEG-based real-time robotic control system using EMOTIV+ and deep learning.
 
+#### 🈵 Natual Language Processing, LLM related  
+- [ctext.org Chinese peom crawler](https://github.com/ChiShengChen/ctext.org_-crawler)  
+  For scraping Chinese classical texts from ctext.org.  
+- [Chinese BERT Fineture](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune)  
+  A BERT Chinese model fine-tuning project based on DeepSpeed framework, trained on TMMLU+ multi-domain Chinese Q&A dataset.
 
 #### 🧪 Machine/Deep Learning Tutorial
 - [Python 101 in zh](https://github.com/ChiShengChen/python101_zh) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python101_zh?style=social)  
