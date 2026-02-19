@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there 👋, I'm Michael Chi-Sheng Chen</h1>
+<h1 align="center">Hi there 👋, I'm Chi-Sheng "Michael" Chen</h1>
 
 <p align="center">
   AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
