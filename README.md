@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Chi-Sheng "Michael" Chen</h1>
 
 <p align="center">
-  AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
+  AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML | [Website](https://chishengchen.github.io/) <br>  
   Harvard Medical School & BIDMC,ex-OpenAI, ex-MediaTek, ex-Max Planck Institute <br>  
   Passionate about transforming data into intelligence 🧠⚡️  
 
