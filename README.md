@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Chi-Sheng "Michael" Chen</h1>
 
 <p align="center">
-  AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML | [Website](https://chishengchen.github.io/) <br>  
+  AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>  
   Harvard Medical School & BIDMC,ex-OpenAI, ex-MediaTek, ex-Max Planck Institute <br>  
   Passionate about transforming data into intelligence 🧠⚡️  
 
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 🎓 My research publications are listed on [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW).  
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-270+%20citations-blue)
+- 📇 [Website](https://chishengchen.github.io/) 
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
