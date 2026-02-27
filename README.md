@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   The new Gaze Heatmap System provides advanced gaze tracking with ETH-XGaze as the default model (best accuracy, supports MPS GPU acceleration).
 - [Webcam Gaze Tracker, Gaze Label Tool & Video Annotation Tool](https://github.com/ChiShengChen/webcam_gaze_webapp)  
   A web application that uses your webcam to track your eye gaze in real-time, featuring: Gaze-based Image Labeling powered by SAM (Segment Anything Model), Video Annotation Mode for recording gaze and audio commentary on videos. Built with WebGazer.js, ONNX Runtime Web, and Vite.  
-- [FewShot3DBrain](https://github.com/ChiShengChen/FewShot3DBrain)
+- [FewShot3DBrain](https://github.com/ChiShengChen/FewShot3DBrain)  
   Frozen FOMO backbone + task-specific LoRA adapters for sequential few-shot continual learning on tumor segmentation (BraTS) and brain age regression (IXI).  
 
 #### 🧠 EEG & Multimodal AI
