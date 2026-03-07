@@ -101,8 +101,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiShengChen&show_icons=true&theme=default" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiShengChen&layout=compact&langs_count=10" width="380"/>
+  <img src="https://streak-stats.demolab.com/?user=ChiShengChen&theme=default" width="495"/>
 </p>
 
 ---
