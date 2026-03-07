@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 - [QRL for Industry Sector Rotation](https://github.com/ChiShengChen/QuantumRL_TW_sector_rotation) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumRL_TW_sector_rotation?style=social)  
   [QCE25](https://ieeexplore.ieee.org/document/11250048) This project implements a Quantum Reinforcement Learning (QRL) agent for the task of industry sector rotation in the stock market.
 - [QML for text gen](https://github.com/ChiShengChen/Quantum_text_gen)  
+  Quantum text generation using QKSAN, QRWKV, and QASA models with comprehensive evaluation pipeline.
 - [ViQASA — QASA Vision Transformer](https://github.com/ChiShengChen/QASA_ViT)  
   Hybrid classical-quantum Vision Transformer with quantum-inspired attention mechanism using Pennylane, evaluated on MNIST and Fashion-MNIST.
 - [Diffusion QASA](https://github.com/ChiShengChen/Diffusion_QASA)  
@@ -139,7 +140,8 @@ Here are some ideas to get you started:
   A step-by-step PyTorch tutorial for deep learning beginners.
 - [LLM Finetune Turoeial](https://github.com/ChiShengChen/LLM_Finetune_Tutorial) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LLM_Finetune_Tutorial?style=social)  
   This project provides comprehensive examples and scripts for fine-tuning and interacting with Large Language Models (LLMs) using three popular toolkits: DeepSpeed, NVIDIA NeMo, and Unsloth.
-- [Soft Prompt VLM Fine-tuning](https://github.com/ChiShengChen/VLM_softprompt_tutorial)
+- [Soft Prompt VLM Fine-tuning](https://github.com/ChiShengChen/VLM_softprompt_tutorial)  
+  Tutorial on parameter-efficient fine-tuning of Vision-Language Models using learnable soft prompts (~600K params vs full 124M).
 - [Text-Image Search with CLIP](https://github.com/ChiShengChen/txt_img_search_clip)  
   Text-to-image and image-to-image search system based on CLIP with fine-tuning support and multiple dataset integration.
 - [Laser Physics AI Tutor](https://github.com/ChiShengChen/NYCU_EP_AI_tutor) ![Stars](https://img.shields.io/github/stars/ChiShengChen/NYCU_EP_AI_tutor?style=social)  
