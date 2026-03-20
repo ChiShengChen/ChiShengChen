@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-290+%20citations-blue)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-306%20citations-blue)
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
@@ -46,16 +46,16 @@ Here are some ideas to get you started:
 
 | Year | Venue | Title | Citations |
 |:----:|:-----:|-------|:---------:|
-| 2025 | PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) | 52 |
-| 2024 | IEEE SiPS | QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding | 30 |
-| 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 20 |
-| 2023 | J. Affective Disorders | Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals | 17 |
+| 2025 | PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) | 53 |
+| 2024 | IEEE SiPS | QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding | 32 |
+| 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 22 |
+| 2023 | J. Affective Disorders | Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals | 18 |
 | 2023 | Ann. Biomed. Eng. | Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network | 17 |
-| 2025 | arXiv | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 16 |
+| 2025 | arXiv | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 17 |
 | 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 16 |
 | 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 5 |
 
-📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2025-03-07*
+📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-03-19*
 
 ---
 
@@ -78,16 +78,16 @@ Here are some ideas to get you started:
 ### 🔬 Flagship Projects
 
 - [**Res-VMamba**](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
-  Fine-grained food classification using state space models with deep residual learning. *PLoS ONE, 52 citations.*
+  Fine-grained food classification using state space models with deep residual learning. *PLoS ONE, 53 citations.*
 
 - [**MUSE EEG**](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
-  Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *20 citations.*
+  Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *22 citations.*
 
 - [**QEEGNet**](https://github.com/ChiShengChen/QuantumEEGNet) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumEEGNet?style=social)  
-  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 30 citations.*
+  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 32 citations.*
 
 - [**QASA**](https://github.com/ChiShengChen/QASA) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
-  Quantum Adaptive Self-Attention for Quantum Transformer Models. *16 citations.*
+  Quantum Adaptive Self-Attention for Quantum Transformer Models. *17 citations.*
 
 - [**QCL**](https://github.com/ChiShengChen/QCL)  
   Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 16 citations.*
