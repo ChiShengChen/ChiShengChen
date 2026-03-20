@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 | Year | Venue | Title | Citations |
 |:----:|:-----:|-------|:---------:|
 | 2025 | PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) | 53 |
-| 2024 | IEEE SiPS | QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding | 32 |
+| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 32 |
 | 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 22 |
-| 2023 | J. Affective Disorders | Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals | 18 |
-| 2023 | Ann. Biomed. Eng. | Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network | 17 |
+| 2023 | J. Affective Disorders | [Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals](https://doi.org/10.1016/j.jad.2023.08.049) | 18 |
+| 2023 | Ann. Biomed. Eng. | [Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network](https://doi.org/10.1007/s10439-022-03033-9) | 17 |
 | 2025 | arXiv | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 17 |
 | 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 16 |
 | 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 5 |
