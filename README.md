@@ -125,12 +125,12 @@ Here are some ideas to get you started:
   EEG-to-Image generation using diffusion models with neural cognitive alignment. *9 citations.*
 
 ---
-<!--
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ChiShengChen&theme=default" width="495"/>
 </p>
--->
 
+---
 
 <details>
 <summary><h3>📌 All Projects (click to expand)</h3></summary>
