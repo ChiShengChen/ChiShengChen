@@ -127,10 +127,6 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiShengChen&show_icons=true&count_private=true&include_all_commits=true&theme=default" width="495"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiShengChen&theme=github-light&area=true&hide_border=true" width="495"/>
 </p>
 
