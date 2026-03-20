@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 - 🧪 Researcher at Harvard Medical School & BIDMC (AI x Surgical Informatics).
-- 🧠 Researcher at Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
+- 🧠 Building the EEG Foundation Model for brain signal understanding (AI x EEG x Psychiatry).
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
