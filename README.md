@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 - 🧠 Researcher at Neuro Industry, building the EEG Foundation Model (AI x EEG x Psychiatry).
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
-- 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-306%20citations-blue)
+- 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-306%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+![H-index](https://img.shields.io/badge/H--index-10-34A853?style=for-the-badge)
+![i10-index](https://img.shields.io/badge/i10--index-10-FBBC05?style=for-the-badge)
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
@@ -59,6 +61,19 @@ Here are some ideas to get you started:
 
 ---
 
+### 🏆 Awards & Honors
+
+| Year | Award |
+|:----:|-------|
+| 2026 | **NVIDIA GTC 2026** — Top 8 Finalist, GPU-Accelerated Chinese Brain-to-Text Interface (NVIDIA H100) |
+| 2026 | **Berkeley RDI AgentX-AgentBeats** — 3rd Place in Healthcare Agent (1,300+ teams worldwide) |
+| 2023 | **20th National Innovation Award** — Certificate in Clinical Research category |
+| 2019 | **International Blockchain Olympiad (IBCOL)** — World Finalist (100+ teams) |
+| 2017 | **Microsoft Imagine Cup** — 2nd Place in Taiwan |
+| 2016 | **iGEM Competition** — World Gold Medal + Best Applied Design + Best Part Collection + Best Presentation (300+ teams) |
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -66,17 +81,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-PennyLane-6C5CE7?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Whisper-74AA9C?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiShengChen&theme=onedark&column=7&no-frame=true&no-bg=true" />
+  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NVIDIA_H100-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
@@ -98,7 +115,10 @@ Here are some ideas to get you started:
 - [**QCL**](https://github.com/ChiShengChen/QCL)  
   Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 16 citations.*
 
-- [**FreqLens**](https://github.com/ChiShengChen/FreqLens)  
+- [**LCM — Large Cognition Model**](https://arxiv.org/abs/2502.17464)
+  Pretrained EEG Foundation Model for brain signal understanding. *14 citations.*
+
+- [**FreqLens**](https://github.com/ChiShengChen/FreqLens)
   Interpretable Frequency Attribution for Time Series Forecasting.
 
 - [**Necomimi**](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
