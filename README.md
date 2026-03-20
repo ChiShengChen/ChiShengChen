@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 🧠 Building the EEG Foundation Model for brain signal understanding (AI x EEG x Psychiatry).
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
+- 📝 Reviewer for **ICML**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
 - 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-306%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![H-index](https://img.shields.io/badge/H--index-10-34A853?style=for-the-badge)
