@@ -92,7 +92,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NVIDIA_H100-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
