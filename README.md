@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-306%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![H-index](https://img.shields.io/badge/H--index-10-34A853?style=for-the-badge)
 ![i10-index](https://img.shields.io/badge/i10--index-10-FBBC05?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-243-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
@@ -111,13 +112,13 @@ Here are some ideas to get you started:
 - [**QASA**](https://github.com/ChiShengChen/QASA) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
   Quantum Adaptive Self-Attention for Quantum Transformer Models. *17 citations.*
 
-- [**QCL**](https://github.com/ChiShengChen/QCL)  
+- [**QCL**](https://github.com/ChiShengChen/QCL) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)
   Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 16 citations.*
 
 - [**LCM — Large Cognition Model**](https://arxiv.org/abs/2502.17464)
   Pretrained EEG Foundation Model for brain signal understanding. *14 citations.*
 
-- [**FreqLens**](https://github.com/ChiShengChen/FreqLens)
+- [**FreqLens**](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
   Interpretable Frequency Attribution for Time Series Forecasting.
 
 - [**Necomimi**](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
