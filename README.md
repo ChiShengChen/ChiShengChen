@@ -75,6 +75,12 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiShengChen&theme=onedark&column=7&no-frame=true&no-bg=true" />
+</p>
+
+---
+
 ### 🔬 Flagship Projects
 
 - [**Res-VMamba**](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
