@@ -116,8 +116,10 @@ Here are some ideas to get you started:
   A web application that uses your webcam to track your eye gaze in real-time, featuring: Gaze-based Image Labeling powered by SAM (Segment Anything Model), Video Annotation Mode for recording gaze and audio commentary on videos. Built with WebGazer.js, ONNX Runtime Web, and Vite.
 - [FewShot3DBrain](https://github.com/ChiShengChen/FewShot3DBrain)  
   Frozen FOMO backbone + task-specific LoRA adapters for sequential few-shot continual learning on tumor segmentation (BraTS) and brain age regression (IXI).
-- [Food2K-TW101](https://github.com/ChiShengChen/Food2K-TW101) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Food2K-TW101?style=social)  
+- [Food2K-TW101](https://github.com/ChiShengChen/Food2K-TW101) ![Stars](https://img.shields.io/github/stars/ChiShengChen/Food2K-TW101?style=social)
   Comprehensive benchmark of fine-grained food classification models on Food2K, Taiwanese Food-101, and Food2K-TW datasets.
+- [PyTorch Fine-Grained Classification Template](https://github.com/ChiShengChen/my_pytorch_deep_learning_template)
+  PyTorch fine-grained visual classification template implementing multiple architectures (MetaFormer, PRENet, CMAL-Net) for fine-grained image recognition tasks.
 
 #### 🧠 EEG & Multimodal AI
 - [ASR-LLM-Medical Prediction Pipeline](https://github.com/ChiShengChen/Broadcastify_audio_pipeline)  
@@ -138,8 +140,10 @@ Here are some ideas to get you started:
   Transformer-based time-series model inspired by behavioral-timescale synaptic plasticity (BTSP), designed for predictive learning on damped signals.
 - [DeFi Benchmark on Curve.fi](https://github.com/ChiShengChen/Quantum_DeFi_Curve)  
   Predict Curve Pool Virtual Price changes using Random Forest, LSTM, Transformer and QNN (Quantum Neural Network) models.
-- [Curve Pool Intelligent Prediction System](https://github.com/ChiShengChen/curve_data_ai)  
+- [Curve Pool Intelligent Prediction System](https://github.com/ChiShengChen/curve_data_ai)
   Real-time prediction of Curve pool Virtual Price changes, intelligently identifying the best investment opportunities.
+- [Time-Series Forecasting Benchmark Framework](https://github.com/ChiShengChen/My_TS_working_framework)
+  Curated benchmark and evaluation framework for time-series forecasting, aggregating 9+ dataset/model repos (GiftEval, Chronos, UniTS, TFB, BasicTS, etc.).
 
 #### ⚛️ Quantum Machine Learning (QML)
 - [Quantum MNIST Diffusion](https://github.com/ChiShengChen/Quantum_MNIST_Diffusion)  
@@ -174,8 +178,12 @@ Here are some ideas to get you started:
   For scraping Chinese classical texts from ctext.org.
 - [Chinese BERT Fine-tune](https://github.com/ChiShengChen/bert-chinese-deepspeed-finetune)  
   A BERT Chinese model fine-tuning project based on DeepSpeed framework, trained on TMMLU+ multi-domain Chinese Q&A dataset.
-- [Whisper Audio Translate](https://github.com/ChiShengChen/whisper_audio_translate)  
+- [Whisper Audio Translate](https://github.com/ChiShengChen/whisper_audio_translate)
   Batch audio transcription pipeline using Whisper (large-v2/v3/turbo) for EMS audio data processing.
+- [EMS Audio Synthesis Pipeline](https://github.com/ChiShengChen/ems_audio_syn_pipeline)
+  Synthetic speech generation pipeline for EMS radio call ASR fine-tuning, combining LLM text generation, multi-engine TTS synthesis (XTTS/Bark/Edge), and radio-noise augmentation.
+- [IELTS Speaking & Writing Practice](https://github.com/ChiShengChen/IELTS_speaking)
+  Full-featured IELTS practice web app with timed recording, local Whisper ASR transcription, automatic band score estimation, pronunciation assessment, and PDF export.
 
 #### 🧪 Machine/Deep Learning Tutorial
 - [Python 101 in zh](https://github.com/ChiShengChen/python101_zh)  
@@ -206,16 +214,32 @@ Here are some ideas to get you started:
   A backtesting system for Uniswap V3-style AMM performance on Katana L2 chain, using historical event data from the WBTC-USDC pool for backtest analysis.
 - [Quantum vs Classical ML in AMM Trading Strategies](https://github.com/ChiShengChen/AMM_backtest)  
   Quantum vs Classical ML in AMM Trading Strategies.
-- [Compass DeFAI DEX](https://github.com/ChiShengChen/Compass_DeFAI_DEX)  
+- [Compass DeFAI DEX](https://github.com/ChiShengChen/Compass_DeFAI_DEX)
   AI-driven DEX protocol for DeFAI (Decentralized Finance + AI).
+- [AMM LP Simulator](https://github.com/ChiShengChen/AMM_LP_simulator)
+  Interactive AMM liquidity provider simulator with real-time impermanent loss calculation, dual-perspective P&L, compounding fee yield, and farming reward depreciation modeling.
+- [Project Compass Web3](https://github.com/ChiShengChen/Project_Compass_web3)
+  DeFi AI-based portfolio and risk management platform integrating classical and quantum AI models for portfolio optimization across protocols (LIDO, AAVE, Uniswap, etc.).
 
 #### 📈 Quant Trading
 - [Option Simulator](https://github.com/ChiShengChen/Option_simulator)  
   A mathematical model-based American options backtesting system that simulates option prices using mathematical models rather than relying on historical market data.
 - [Smart Money Concept Demo](https://github.com/ChiShengChen/SMC_demo)  
   Interactive Smart Money Concept (SMC) analysis tool built with Gemini AI and TypeScript.
-- [Curve AI Backend](https://github.com/ChiShengChen/Curve_ai_backend)  
+- [Curve AI Backend](https://github.com/ChiShengChen/Curve_ai_backend)
   FastAPI backend service for Curve Finance pool metrics syncing, historical APY data tracking, and strategy event management with Celery workers and Prometheus monitoring.
+- [Aster DEX Trading Bot](https://github.com/ChiShengChen/Aster_Dex_example)
+  Flask-based trading bot for Aster DEX, implementing normal grid, logarithmic grid, and volume-based automated trading strategies.
+
+#### 🤖 AI Agent & Applications
+- [Dao-Agent](https://github.com/ChiShengChen/dao-agent)
+  Claude Code Skill that generates structured agent prompts using Taoist ritual metaphors, with 6 template types, multi-agent workflows, prompt linting, and token estimation.
+- [Shikigami](https://github.com/ChiShengChen/shikigami)
+  Claude Code Skill inspired by Japanese onmyoji mythology for generating agent prompts, featuring 6 agent templates, 5 multi-agent formations, and composable enhancement modules.
+- [Moltbook AI Temple](https://github.com/ChiShengChen/Moltbook_ai_temple)
+  Autonomous AI agent on Moltbook social platform simulating a traditional Taiwanese temple, providing Claude-powered fortune telling, divination, and 24/7 automated community engagement.
+- [EQ Grader](https://github.com/ChiShengChen/eq-grader)
+  Local AI-powered grading system for elementary school EQ worksheets, using Ollama (Qwen 2.5 14B) with a three-stage evaluation pipeline, running entirely on Apple Silicon.
 
 #### 🌾 IoT Application
 - [BugCan Pest Counter](https://github.com/ChiShengChen/pure_agri_bugcan_pest-counter)  
