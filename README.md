@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 📝 Reviewer for **ICML**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
 - 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-306%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
-![H-index](https://img.shields.io/badge/H--index-10-34A853?style=for-the-badge)
-![i10-index](https://img.shields.io/badge/i10--index-10-FBBC05?style=for-the-badge)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-320%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+![H-index](https://img.shields.io/badge/H--index-11-34A853?style=for-the-badge)
+![i10-index](https://img.shields.io/badge/i10--index-12-FBBC05?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-243-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
@@ -51,15 +51,15 @@ Here are some ideas to get you started:
 | Year | Venue | Title | Citations |
 |:----:|:-----:|-------|:---------:|
 | 2025 | PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) | 53 |
-| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 32 |
-| 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 22 |
+| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 35 |
+| 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 25 |
 | 2023 | J. Affective Disorders | [Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals](https://doi.org/10.1016/j.jad.2023.08.049) | 18 |
 | 2023 | Ann. Biomed. Eng. | [Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network](https://doi.org/10.1007/s10439-022-03033-9) | 17 |
 | 2025 | arXiv | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 17 |
 | 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 16 |
 | 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 5 |
 
-📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-03-19*
+📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-04-05*
 
 ---
 
@@ -105,10 +105,10 @@ Here are some ideas to get you started:
   Fine-grained food classification using state space models with deep residual learning. *PLoS ONE, 53 citations.*
 
 - [**MUSE EEG**](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
-  Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *22 citations.*
+  Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *25 citations.*
 
 - [**QEEGNet**](https://github.com/ChiShengChen/QuantumEEGNet) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumEEGNet?style=social)  
-  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 32 citations.*
+  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 35 citations.*
 
 - [**QASA**](https://github.com/ChiShengChen/QASA) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
   Quantum Adaptive Self-Attention for Quantum Transformer Models. *17 citations.*
@@ -117,13 +117,13 @@ Here are some ideas to get you started:
   Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 16 citations.*
 
 - [**LCM — Large Cognition Model**](https://arxiv.org/abs/2502.17464)
-  Pretrained EEG Foundation Model for brain signal understanding. *14 citations.*
+  Pretrained EEG Foundation Model for brain signal understanding. *15 citations.*
 
 - [**FreqLens**](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
   Interpretable Frequency Attribution for Time Series Forecasting.
 
 - [**Necomimi**](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
-  EEG-to-Image generation using diffusion models with neural cognitive alignment. *9 citations.*
+  EEG-to-Image generation using diffusion models with neural cognitive alignment. *11 citations.*
 
 ---
 
