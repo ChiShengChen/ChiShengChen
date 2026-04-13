@@ -116,8 +116,8 @@ Here are some ideas to get you started:
 - [**QCL**](https://github.com/ChiShengChen/QCL) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)
   Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 16 citations.*
 
-- [**LCM — Large Cognition Model**](https://arxiv.org/abs/2502.17464)
-  Pretrained EEG Foundation Model for brain signal understanding. *15 citations.*
+- [**LCM — Large Cognition Model**](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
+  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 15 citations.*
 
 - [**FreqLens**](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
   Interpretable Frequency Attribution for Time Series Forecasting.
@@ -153,6 +153,10 @@ Here are some ideas to get you started:
   A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining ASR evaluation with LLM enhancement for medical term correction, information extraction, and emergency page generation. [Related]: [Firefox Crawler for Broadcastify Audio Archives](https://github.com/ChiShengChen/broadcastify_mp3_crawler).
 - [dDTF — Dynamic Directed Transfer Function](https://github.com/ChiShengChen/dDTF)  
   EEG channel connectivity and directionality analysis using dynamic Directed Transfer Function in the frequency domain.
+- [ACTSNet v2](https://github.com/ChiShengChen/ACTSNetv2)
+  Frequency-Aware Interpretable EEG Classification for TMS antidepressant response prediction.
+- [ACTSNet v1](https://github.com/ChiShengChen/ACTSNetv1)
+  Attentional Convolution Time Series Network — PyTorch implementation from NTU 2021 master's thesis ([doi:10.6342/NTU202101201](https://doi.org/10.6342/NTU202101201)).
 
 #### 🏥 Surgical / Medical AI
 - [NTQIP NEI-6 Prediction](https://github.com/ChiShengChen/NTQIP_nei-6_prediction_tree)  
@@ -191,6 +195,8 @@ Here are some ideas to get you started:
   Exploration of quantum attention mechanisms for neural network architectures.
 - [Quantum Molecular Prediction](https://github.com/ChiShengChen/Quantum_molecular_prediction)  
   Quantum and classical regression models (QNN, QASA, Transformer, XGBoost, etc.) for predicting molecular properties.
+- [Multi-Layer FC-VQC Transformer](https://github.com/ChiShengChen/MultiLayer-FC-VQC-Transformer)
+  Multi-layer fully-connected Variational Quantum Circuits, ResNet-style VQCs, and Quantum Transformer VQCs for tabular regression and classification benchmarks.
 
 #### 🤖 EEG Survey & Control Systems
 - [EEG Dataset Survey Paper](https://github.com/ChiShengChen/EEG-Datasets) ![Stars](https://img.shields.io/github/stars/ChiShengChen/EEG-Datasets?style=social)  
@@ -227,6 +233,8 @@ Here are some ideas to get you started:
   Text-to-image and image-to-image search system based on CLIP with fine-tuning support and multiple dataset integration.
 - [Laser Physics AI Tutor](https://github.com/ChiShengChen/NYCU_EP_AI_tutor)  
   RAG-based AI teaching assistant for NYCU laser physics course, featuring 8 learning modes, built with Gemini 2.5 Flash, Supabase pgvector, and Vercel AI SDK.
+- [Kimi-K2 & GPT-OSS Local Install Guide](https://github.com/ChiShengChen/Kimi_OAI_install)
+  Step-by-step guide for downloading, installing, and running Kimi-K2-Instruct and GPT-OSS (120b/20b) models locally from Hugging Face.
 
 #### 🔗 Blockchain & DeFi
 - [Solana Demo Tutorial](https://github.com/ChiShengChen/Solana_Demo_Tutorial)  
@@ -247,6 +255,8 @@ Here are some ideas to get you started:
   Interactive AMM liquidity provider simulator with real-time impermanent loss calculation, dual-perspective P&L, compounding fee yield, and farming reward depreciation modeling.
 - [Project Compass Web3](https://github.com/ChiShengChen/Project_Compass_web3)
   DeFi AI-based portfolio and risk management platform integrating classical and quantum AI models for portfolio optimization across protocols (LIDO, AAVE, Uniswap, etc.).
+- [Riverting](https://github.com/ChiShengChen/riverting)
+  AI Agent Marketplace with streaming salary on X Layer — curators upload AI agents and users pay per-second via conversational chat sessions.
 
 #### 📈 Quant Trading
 - [Option Simulator](https://github.com/ChiShengChen/Option_simulator)  
@@ -257,6 +267,8 @@ Here are some ideas to get you started:
   FastAPI backend service for Curve Finance pool metrics syncing, historical APY data tracking, and strategy event management with Celery workers and Prometheus monitoring.
 - [Aster DEX Trading Bot](https://github.com/ChiShengChen/Aster_Dex_example)
   Flask-based trading bot for Aster DEX, implementing normal grid, logarithmic grid, and volume-based automated trading strategies.
+- [Omnis CLAMM Vault Case Study](https://github.com/ChiShengChen/omnis-case-study)
+  Multi-Layer LP strategy backtest with Monte Carlo robustness analysis and interactive dashboard for Steer Protocol vaults on Katana (Ronin L2), comparing 9 strategies.
 
 #### 🤖 AI Agent & Applications
 - [Dao-Agent](https://github.com/ChiShengChen/dao-agent)
@@ -267,6 +279,14 @@ Here are some ideas to get you started:
   Autonomous AI agent on Moltbook social platform simulating a traditional Taiwanese temple, providing Claude-powered fortune telling, divination, and 24/7 automated community engagement.
 - [EQ Grader](https://github.com/ChiShengChen/eq-grader)
   Local AI-powered grading system for elementary school EQ worksheets, using Ollama (Qwen 2.5 14B) with a three-stage evaluation pipeline, running entirely on Apple Silicon.
+- [Paradigm Automated Research Hackathon](https://github.com/ChiShengChen/paradigm-hackathon)
+  Solutions for Paradigm's Automated Research Hackathon across four tracks — including a block-sparse causal attention kernel for NVIDIA H100 (10.63ms), negotiation, market making, and GPU kernel engineering.
+- [Yao Codec — 六爻解卦算法](https://github.com/ChiShengChen/Yao_codec)
+  Python implementation of the I-Ching six-yao (六爻) divination decoding algorithm.
+
+#### 🕸️ Graph Neural Networks & Operations Research
+- [SupplyGraph](https://github.com/ChiShengChen/SupplyGraph_code)
+  Official source code for ["Optimizing Supply Chain Networks with the Power of Graph Neural Networks"](https://arxiv.org/abs/2501.06221) — GNN-based supply chain network optimization.
 
 #### 🌾 IoT Application
 - [BugCan Pest Counter](https://github.com/ChiShengChen/pure_agri_bugcan_pest-counter)  
