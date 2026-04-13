@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 | 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 16 |
 | 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 5 |
 
-📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-04-05*
+📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-04-13*
 
 ---
 
