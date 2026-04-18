@@ -271,6 +271,8 @@ Here are some ideas to get you started:
   Flask-based trading bot for Aster DEX, implementing normal grid, logarithmic grid, and volume-based automated trading strategies.
 - [Omnis CLAMM Vault Case Study](https://github.com/ChiShengChen/omnis-case-study)
   Multi-Layer LP strategy backtest with Monte Carlo robustness analysis and interactive dashboard for Steer Protocol vaults on Katana (Ronin L2), comparing 9 strategies.
+- [Python Crypto Currency Portfolio App](https://github.com/ChiShengChen/python_CryptoCurrencyPortfolioApp) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python_CryptoCurrencyPortfolioApp?style=social)
+  A Python-based cryptocurrency portfolio tracking and analysis application.
 
 #### 🤖 AI Agent & Applications
 - [Dao-Agent](https://github.com/ChiShengChen/dao-agent)
@@ -317,6 +319,22 @@ Here are some ideas to get you started:
   Blockly-based Webduino sensor modules for smart-agriculture deployments.
 - Webduino JS sensor framework: [sensor.js frame](https://github.com/ChiShengChen/webduino_sensor.js_frame) · node variants — [BME280](https://github.com/ChiShengChen/webduino_n_bme280) · [IR BugCan](https://github.com/ChiShengChen/webduino_n_irbudcan) · [Rain](https://github.com/ChiShengChen/webduino_n_rain) · [UV](https://github.com/ChiShengChen/webduino_n_uv) · [Wind Speed](https://github.com/ChiShengChen/webduino_n_Windspeed-)
   JavaScript-based framework and per-sensor node implementations for Webduino.
+
+#### 🌐 Personal & Company Websites
+- [ChiShengChen.github.io](https://github.com/ChiShengChen/ChiShengChen.github.io)
+  My primary personal / academic website ([chishengchen.github.io](https://chishengchen.github.io/)).
+- [academicpages.github.io](https://github.com/ChiShengChen/academicpages.github.io)
+  Academic-style personal site built on the academicpages Jekyll template (forked from mmistakes/minimal-mistakes).
+- [ms — Resume Website](https://github.com/ChiShengChen/ms) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ms?style=social)
+  Personal resume / online CV website.
+- [Quantquer Web](https://github.com/ChiShengChen/quantquerweb)
+  Company website for 量維資科有限公司 (Quantquer Inc).
+- [meownote.github.io](https://github.com/ChiShengChen/meownote.github.io)
+  An earlier personal notes / blog site.
+
+#### 📚 Learning Notes & Misc Tools
+- [Rust Learning](https://github.com/ChiShengChen/Rust_Learning)
+  Personal notes and exercises for learning the Rust programming language.
 
 </details>
 
