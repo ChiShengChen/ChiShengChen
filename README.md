@@ -247,6 +247,8 @@ Here are some ideas to get you started:
   A simple Solana program built with the Anchor framework demonstrating the initialization of a Program Derived Address (PDA).
 - [Blockchain from Scratch](https://github.com/ChiShengChen/blockchain_practice)  
   A practice project building blockchain systems from the ground up.
+- [ERC Smart Contract Practice](https://github.com/ChiShengChen/erc_SmartContract_practice)
+  Practice project implementing ERC-standard Ethereum smart contracts.
 - [Uniswap V3 AMM Performance Backtesting System](https://github.com/ChiShengChen/katana_amm_backtest)  
   A backtesting system for Uniswap V3-style AMM performance on Katana L2 chain, using historical event data from the WBTC-USDC pool for backtest analysis.
 - [Quantum vs Classical ML in AMM Trading Strategies](https://github.com/ChiShengChen/AMM_backtest)  
@@ -335,6 +337,26 @@ Here are some ideas to get you started:
 #### 📚 Learning Notes & Misc Tools
 - [Rust Learning](https://github.com/ChiShengChen/Rust_Learning)
   Personal notes and exercises for learning the Rust programming language.
+- [Python Self-Learning Notes](https://github.com/ChiShengChen/python_self-learning_note)
+  Personal Python learning notes and code snippets.
+- [Deep Learning Self-Learning Notes](https://github.com/ChiShengChen/deeplearning_self-learning_note)
+  Personal deep learning study notes.
+- [CSS Flexbox Notes](https://github.com/ChiShengChen/CSS_flex-box_note)
+  Notes and examples on CSS Flexbox layout.
+- [Sound Analysis Notes](https://github.com/ChiShengChen/SoundAnalysisNote)
+  Code notes from learning sound analysis in the 2018 Fishackathon.
+- [LaTeX Experiment Report Template](https://github.com/ChiShengChen/LaTeX_exp_report_template)
+  Reusable LaTeX template for lab / experiment reports.
+- [MATLAB Auto-Read File](https://github.com/ChiShengChen/Matlab-auto-read-file)
+  MATLAB helper for automatically reading and batch-processing files.
+- [Web Frontend Practice](https://github.com/ChiShengChen/Web_FrontEnd_practice) & [Web Practice](https://github.com/ChiShengChen/Web_practice)
+  Early web front-end practice projects.
+- [React Native Practice](https://github.com/ChiShengChen/react_native_practice)
+  React Native mobile development practice project.
+- [Amazon-style Clone Practice](https://github.com/ChiShengChen/amazono_practice)
+  E-commerce UI practice project imitating Amazon.
+- [AR Practice](https://github.com/ChiShengChen/AR_pratice)
+  Augmented Reality practice project.
 
 </details>
 
