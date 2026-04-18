@@ -334,29 +334,22 @@ Here are some ideas to get you started:
 - [meownote.github.io](https://github.com/ChiShengChen/meownote.github.io)
   An earlier personal notes / blog site.
 
-#### 📚 Learning Notes & Misc Tools
-- [Rust Learning](https://github.com/ChiShengChen/Rust_Learning)
-  Personal notes and exercises for learning the Rust programming language.
-- [Python Self-Learning Notes](https://github.com/ChiShengChen/python_self-learning_note)
-  Personal Python learning notes and code snippets.
-- [Deep Learning Self-Learning Notes](https://github.com/ChiShengChen/deeplearning_self-learning_note)
-  Personal deep learning study notes.
-- [CSS Flexbox Notes](https://github.com/ChiShengChen/CSS_flex-box_note)
-  Notes and examples on CSS Flexbox layout.
-- [Sound Analysis Notes](https://github.com/ChiShengChen/SoundAnalysisNote)
-  Code notes from learning sound analysis in the 2018 Fishackathon.
-- [LaTeX Experiment Report Template](https://github.com/ChiShengChen/LaTeX_exp_report_template)
-  Reusable LaTeX template for lab / experiment reports.
-- [MATLAB Auto-Read File](https://github.com/ChiShengChen/Matlab-auto-read-file)
-  MATLAB helper for automatically reading and batch-processing files.
-- [Web Frontend Practice](https://github.com/ChiShengChen/Web_FrontEnd_practice) & [Web Practice](https://github.com/ChiShengChen/Web_practice)
-  Early web front-end practice projects.
-- [React Native Practice](https://github.com/ChiShengChen/react_native_practice)
-  React Native mobile development practice project.
-- [Amazon-style Clone Practice](https://github.com/ChiShengChen/amazono_practice)
-  E-commerce UI practice project imitating Amazon.
-- [AR Practice](https://github.com/ChiShengChen/AR_pratice)
-  Augmented Reality practice project.
+<details>
+<summary><h4>📚 Learning Notes & Misc Tools (click to expand — early learning / practice repos, kept for archival)</h4></summary>
+
+- [Rust Learning](https://github.com/ChiShengChen/Rust_Learning) — Personal notes and exercises for learning the Rust programming language.
+- [Python Self-Learning Notes](https://github.com/ChiShengChen/python_self-learning_note) — Personal Python learning notes and code snippets.
+- [Deep Learning Self-Learning Notes](https://github.com/ChiShengChen/deeplearning_self-learning_note) — Personal deep learning study notes.
+- [CSS Flexbox Notes](https://github.com/ChiShengChen/CSS_flex-box_note) — Notes and examples on CSS Flexbox layout.
+- [Sound Analysis Notes](https://github.com/ChiShengChen/SoundAnalysisNote) — Code notes from learning sound analysis in the 2018 Fishackathon.
+- [LaTeX Experiment Report Template](https://github.com/ChiShengChen/LaTeX_exp_report_template) — Reusable LaTeX template for lab / experiment reports.
+- [MATLAB Auto-Read File](https://github.com/ChiShengChen/Matlab-auto-read-file) — MATLAB helper for automatically reading and batch-processing files.
+- [Web Frontend Practice](https://github.com/ChiShengChen/Web_FrontEnd_practice) & [Web Practice](https://github.com/ChiShengChen/Web_practice) — Early web front-end practice projects.
+- [React Native Practice](https://github.com/ChiShengChen/react_native_practice) — React Native mobile development practice project.
+- [Amazon-style Clone Practice](https://github.com/ChiShengChen/amazono_practice) — E-commerce UI practice project imitating Amazon.
+- [AR Practice](https://github.com/ChiShengChen/AR_pratice) — Augmented Reality practice project.
+
+</details>
 
 </details>
 
