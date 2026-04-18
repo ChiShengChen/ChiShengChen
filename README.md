@@ -149,6 +149,8 @@ Here are some ideas to get you started:
   PyTorch fine-grained visual classification template implementing multiple architectures (MetaFormer, PRENet, CMAL-Net) for fine-grained image recognition tasks.
 
 #### 🧠 EEG & Multimodal AI
+- [LCM — Large Cognition Model](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
+  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 15 citations.*
 - [ASR-LLM-Medical Prediction Pipeline](https://github.com/ChiShengChen/Broadcastify_audio_pipeline)  
   A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining ASR evaluation with LLM enhancement for medical term correction, information extraction, and emergency page generation. [Related]: [Firefox Crawler for Broadcastify Audio Archives](https://github.com/ChiShengChen/broadcastify_mp3_crawler).
 - [dDTF — Dynamic Directed Transfer Function](https://github.com/ChiShengChen/dDTF)  
@@ -288,9 +290,33 @@ Here are some ideas to get you started:
 - [SupplyGraph](https://github.com/ChiShengChen/SupplyGraph_code)
   Official source code for ["Optimizing Supply Chain Networks with the Power of Graph Neural Networks"](https://arxiv.org/abs/2501.06221) — GNN-based supply chain network optimization.
 
-#### 🌾 IoT Application
-- [BugCan Pest Counter](https://github.com/ChiShengChen/pure_agri_bugcan_pest-counter)  
+#### 🌾 IoT, Embedded & Hardware Competition Projects
+- [BugCan Pest Counter](https://github.com/ChiShengChen/pure_agri_bugcan_pest-counter)
   An IoT project for agricultural pest counting and detection.
+- [Smart Gloves — Microsoft Imagine Cup Taiwan 2018 (2nd Place)](https://github.com/ChiShengChen/SmartGloves_2018MS_ImagineCup)
+  Wearable smart-glove system from the Microsoft Imagine Cup Taiwan finals.
+- [IBCOL BlockRental — IBCOL 2019 World Finalist](https://github.com/ChiShengChen/IBCOL_BlockRental)
+  Blockchain-based rental platform, finalist of the International Blockchain Olympiad 2019.
+- [iGEM 2016 — NCTU Formosa (World Gold Medal)](https://github.com/ChiShengChen/2016IGEM)
+  Arduino integration code from the 2016 iGEM NCTU Formosa biosensor project (Gold Medal + Best Applied Design + Best Part Collection + Best Presentation).
+- [makeNTU 2018 — Glove Control](https://github.com/ChiShengChen/2018makeNTU) & [MeowMeow](https://github.com/ChiShengChen/2018makeNTU_meowmeow)
+  Gesture-based glove-control hackathon project and its companion build from makeNTU 2018.
+- [HSPICE Circuit Synthesis](https://github.com/ChiShengChen/HSPICE_SYN)
+  HSPICE analog/mixed-signal circuit design and simulation exercises.
+- [Verilog VLSI Homework](https://github.com/ChiShengChen/verilog_VLSI_hw)
+  Verilog-based VLSI coursework implementations.
+- [LabVIEW — Magnetic Hysteresis Image Analysis](https://github.com/ChiShengChen/LabVIEW-image-analysis-magnetic-hysteresis-curve) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LabVIEW-image-analysis-magnetic-hysteresis-curve?style=social)
+  LabVIEW implementation of magnetic hysteresis curve image analysis.
+- [LabVIEW — Hex Color Plate](https://github.com/ChiShengChen/LabVIEW_hexColorplate) & [Light Memory Game](https://github.com/ChiShengChen/LabVIEW_LightMemoryGame)
+  Minor LabVIEW instrumentation/GUI experiments.
+- [LED Mood Cellphone (Art & Design Final)](https://github.com/ChiShengChen/artDesign_finalProject_LedMoodCellphone)
+  LED-based mood-indicating cellphone prototype for an art & design course.
+- [Arduino Agriculture Weather Station](https://github.com/ChiShengChen/Arduino_agriculture_weather_station) & [Button-LED Demo](https://github.com/ChiShengChen/arduino_botton_led)
+  Arduino-based weather/environment monitoring node plus a minimal button-LED sample.
+- Webduino Blockly agricultural sensor suite: [BME280](https://github.com/ChiShengChen/webduinoblockly_agriculture_BME280) · [IR BugCan](https://github.com/ChiShengChen/webduinoblockly_agriculture_irbugcan) · [Rain](https://github.com/ChiShengChen/webduinoblockly_agriculture_rain) · [UV](https://github.com/ChiShengChen/webduinoblockly_agriculture_uvsensor) · [Wind Speed](https://github.com/ChiShengChen/webduinoblockly_agriculture_windspeed)
+  Blockly-based Webduino sensor modules for smart-agriculture deployments.
+- Webduino JS sensor framework: [sensor.js frame](https://github.com/ChiShengChen/webduino_sensor.js_frame) · node variants — [BME280](https://github.com/ChiShengChen/webduino_n_bme280) · [IR BugCan](https://github.com/ChiShengChen/webduino_n_irbudcan) · [Rain](https://github.com/ChiShengChen/webduino_n_rain) · [UV](https://github.com/ChiShengChen/webduino_n_uv) · [Wind Speed](https://github.com/ChiShengChen/webduino_n_Windspeed-)
+  JavaScript-based framework and per-sensor node implementations for Webduino.
 
 </details>
 
