@@ -235,6 +235,8 @@ Here are some ideas to get you started:
   Text-to-image and image-to-image search system based on CLIP with fine-tuning support and multiple dataset integration.
 - [Laser Physics AI Tutor](https://github.com/ChiShengChen/NYCU_EP_AI_tutor)  
   RAG-based AI teaching assistant for NYCU laser physics course, featuring 8 learning modes, built with Gemini 2.5 Flash, Supabase pgvector, and Vercel AI SDK.
+- [General Physics AI Tutor](https://github.com/ChiShengChen/NYCU-EP-general-physics-tutor)
+  RAG-based AI teaching assistant for NYCU EP "General Physics" course (Young & Freedman Ch01–Ch31), covering mechanics, oscillation, fluids, waves, thermodynamics, and electromagnetism.
 - [Kimi-K2 & GPT-OSS Local Install Guide](https://github.com/ChiShengChen/Kimi_OAI_install)
   Step-by-step guide for downloading, installing, and running Kimi-K2-Instruct and GPT-OSS (120b/20b) models locally from Hugging Face.
 
@@ -273,6 +275,8 @@ Here are some ideas to get you started:
   Flask-based trading bot for Aster DEX, implementing normal grid, logarithmic grid, and volume-based automated trading strategies.
 - [Omnis CLAMM Vault Case Study](https://github.com/ChiShengChen/omnis-case-study)
   Multi-Layer LP strategy backtest with Monte Carlo robustness analysis and interactive dashboard for Steer Protocol vaults on Katana (Ronin L2), comparing 9 strategies.
+- [Hunch It (tickr-ai)](https://github.com/ChiShengChen/tickr-ai)
+  Mandate-driven AI trading proposals for tokenized stocks & crypto on Solana — generates BUY proposals with Jupiter Trigger Orders and automatic TP/SL placement.
 - [Python Crypto Currency Portfolio App](https://github.com/ChiShengChen/python_CryptoCurrencyPortfolioApp) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python_CryptoCurrencyPortfolioApp?style=social)
   A Python-based cryptocurrency portfolio tracking and analysis application.
 
@@ -289,6 +293,8 @@ Here are some ideas to get you started:
   Solutions for Paradigm's Automated Research Hackathon across four tracks — including a block-sparse causal attention kernel for NVIDIA H100 (10.63ms), negotiation, market making, and GPU kernel engineering.
 - [Yao Codec — 六爻解卦算法](https://github.com/ChiShengChen/Yao_codec)
   Python implementation of the I-Ching six-yao (六爻) divination decoding algorithm.
+- [Robotics Workcell Optimizer](https://github.com/ChiShengChen/robotics-workcell-optimizer)
+  LLM-driven robotics workcell layout pipeline: natural language → structured spec → robot selection → optimized 2D layout (SA + CP-SAT) → 3D animated preview, with multi-LLM provider abstraction.
 
 #### 🕸️ Graph Neural Networks & Operations Research
 - [SupplyGraph](https://github.com/ChiShengChen/SupplyGraph_code)
