@@ -293,6 +293,8 @@ Here are some ideas to get you started:
   Solutions for Paradigm's Automated Research Hackathon across four tracks — including a block-sparse causal attention kernel for NVIDIA H100 (10.63ms), negotiation, market making, and GPU kernel engineering.
 - [Yao Codec — 六爻解卦算法](https://github.com/ChiShengChen/Yao_codec)
   Python implementation of the I-Ching six-yao (六爻) divination decoding algorithm.
+
+#### 🤖 Robotics
 - [Robotics Workcell Optimizer](https://github.com/ChiShengChen/robotics-workcell-optimizer)
   LLM-driven robotics workcell layout pipeline: natural language → structured spec → robot selection → optimized 2D layout (SA + CP-SAT) → 3D animated preview, with multi-LLM provider abstraction.
 
