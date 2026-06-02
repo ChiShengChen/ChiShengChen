@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 📝 Reviewer for **ICML**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
 - 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-351%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-365%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![H-index](https://img.shields.io/badge/H--index-11-34A853?style=for-the-badge)
 ![i10-index](https://img.shields.io/badge/i10--index-13-FBBC05?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-243-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,16 +50,18 @@ Here are some ideas to get you started:
 
 | Year | Venue | Title | Citations |
 |:----:|:-----:|-------|:---------:|
-| 2025 | PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) | 56 |
-| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 38 |
+| 2025 | PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) | 57 |
+| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 42 |
 | 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 28 |
-| 2025 | arXiv | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 19 |
+| 2025 | IEEE CIBCB | [Enhancing Clinical Decision-Making: Integrating Multi-Agent Systems with Ethical AI Governance](https://arxiv.org/abs/2504.03699) | 21 |
+| 2025 | arXiv | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 20 |
 | 2023 | J. Affective Disorders | [Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals](https://doi.org/10.1016/j.jad.2023.08.049) | 19 |
+| 2025 | arXiv | [Large Cognition Model: Towards Pretrained EEG Foundation Model](https://arxiv.org/abs/2502.17464) | 17 |
+| 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 17 |
 | 2023 | Ann. Biomed. Eng. | [Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network](https://doi.org/10.1007/s10439-022-03033-9) | 17 |
-| 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 16 |
 | 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 5 |
 
-📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-05-22*
+📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-06-02*
 
 ---
 
@@ -102,22 +104,22 @@ Here are some ideas to get you started:
 ### 🔬 Flagship Projects
 
 - [**Res-VMamba**](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
-  Fine-grained food classification using state space models with deep residual learning. *PLoS ONE, 56 citations.*
+  Fine-grained food classification using state space models with deep residual learning. *PLoS ONE, 57 citations.*
 
 - [**MUSE EEG**](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
   Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *28 citations.*
 
 - [**QEEGNet**](https://github.com/ChiShengChen/QuantumEEGNet) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumEEGNet?style=social)  
-  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 38 citations.*
+  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 42 citations.*
 
 - [**QASA**](https://github.com/ChiShengChen/QASA) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
-  Quantum Adaptive Self-Attention for Quantum Transformer Models. *19 citations.*
+  Quantum Adaptive Self-Attention for Quantum Transformer Models. *20 citations.*
 
 - [**QCL**](https://github.com/ChiShengChen/QCL) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)
-  Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 16 citations.*
+  Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 17 citations.*
 
 - [**LCM — Large Cognition Model**](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
-  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 16 citations.*
+  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 17 citations.*
 
 - [**FreqLens**](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
   Interpretable Frequency Attribution for Time Series Forecasting.
@@ -150,7 +152,7 @@ Here are some ideas to get you started:
 
 #### 🧠 EEG & Multimodal AI
 - [LCM — Large Cognition Model](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
-  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 16 citations.*
+  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 17 citations.*
 - [ASR-LLM-Medical Prediction Pipeline](https://github.com/ChiShengChen/Broadcastify_audio_pipeline)  
   A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining ASR evaluation with LLM enhancement for medical term correction, information extraction, and emergency page generation. [Related]: [Firefox Crawler for Broadcastify Audio Archives](https://github.com/ChiShengChen/broadcastify_mp3_crawler).
 - [dDTF — Dynamic Directed Transfer Function](https://github.com/ChiShengChen/dDTF)  
@@ -235,8 +237,6 @@ Here are some ideas to get you started:
   Text-to-image and image-to-image search system based on CLIP with fine-tuning support and multiple dataset integration.
 - [Laser Physics AI Tutor](https://github.com/ChiShengChen/NYCU_EP_AI_tutor)  
   RAG-based AI teaching assistant for NYCU laser physics course, featuring 8 learning modes, built with Gemini 2.5 Flash, Supabase pgvector, and Vercel AI SDK.
-- [General Physics AI Tutor](https://github.com/ChiShengChen/NYCU-EP-general-physics-tutor)
-  RAG-based AI teaching assistant for NYCU EP "General Physics" course (Young & Freedman Ch01–Ch31), covering mechanics, oscillation, fluids, waves, thermodynamics, and electromagnetism.
 - [Kimi-K2 & GPT-OSS Local Install Guide](https://github.com/ChiShengChen/Kimi_OAI_install)
   Step-by-step guide for downloading, installing, and running Kimi-K2-Instruct and GPT-OSS (120b/20b) models locally from Hugging Face.
 
@@ -275,8 +275,6 @@ Here are some ideas to get you started:
   Flask-based trading bot for Aster DEX, implementing normal grid, logarithmic grid, and volume-based automated trading strategies.
 - [Omnis CLAMM Vault Case Study](https://github.com/ChiShengChen/omnis-case-study)
   Multi-Layer LP strategy backtest with Monte Carlo robustness analysis and interactive dashboard for Steer Protocol vaults on Katana (Ronin L2), comparing 9 strategies.
-- [Hunch It (tickr-ai)](https://github.com/ChiShengChen/tickr-ai)
-  Mandate-driven AI trading proposals for tokenized stocks & crypto on Solana — generates BUY proposals with Jupiter Trigger Orders and automatic TP/SL placement.
 - [Python Crypto Currency Portfolio App](https://github.com/ChiShengChen/python_CryptoCurrencyPortfolioApp) ![Stars](https://img.shields.io/github/stars/ChiShengChen/python_CryptoCurrencyPortfolioApp?style=social)
   A Python-based cryptocurrency portfolio tracking and analysis application.
 
@@ -293,10 +291,6 @@ Here are some ideas to get you started:
   Solutions for Paradigm's Automated Research Hackathon across four tracks — including a block-sparse causal attention kernel for NVIDIA H100 (10.63ms), negotiation, market making, and GPU kernel engineering.
 - [Yao Codec — 六爻解卦算法](https://github.com/ChiShengChen/Yao_codec)
   Python implementation of the I-Ching six-yao (六爻) divination decoding algorithm.
-
-#### 🤖 Robotics
-- [Robotics Workcell Optimizer](https://github.com/ChiShengChen/robotics-workcell-optimizer)
-  LLM-driven robotics workcell layout pipeline: natural language → structured spec → robot selection → optimized 2D layout (SA + CP-SAT) → 3D animated preview, with multi-LLM provider abstraction.
 
 #### 🕸️ Graph Neural Networks & Operations Research
 - [SupplyGraph](https://github.com/ChiShengChen/SupplyGraph_code)
