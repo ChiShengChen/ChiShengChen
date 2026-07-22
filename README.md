@@ -279,6 +279,14 @@ Here are some ideas to get you started:
   A Python-based cryptocurrency portfolio tracking and analysis application.
 
 #### 🤖 AI Agent & Applications
+- [Whaleforce LLM Test](https://github.com/ChiShengChen/whaleforce-llm-test)
+  Multi-agent system for financial research and web automation — a browser-automation agent driven by an explicit `PLAN → LOCATE → ACT → VERIFY → DIAGNOSE` state machine, a SEC 10-K extractor with layered fallbacks (regex anchors → structural parsing → LLM self-consistency), and a 35-agent US-stock analysis suite with deterministic backtesting. Python/FastAPI + Next.js 15, Playwright, Supabase.
+- [flyhypo](https://github.com/ChiShengChen/flyhypo)
+  Agentic pipeline that generates grounded, falsifiable functional hypotheses for *Drosophila* neuron cell types by fusing connectome structure (neuPrint), literature (PubMed), and LLM reasoning (Gemini), with deterministic verification passes (verbatim quote and connectivity re-checks) to guard against hallucination.
+- [Paper Evidence](https://github.com/ChiShengChen/paper-evidence)
+  Evidence-grounding engine that extracts verbatim quotes from scientific literature and keeps an LLM claim only if the source verifiably supports it — via quote matching, number-context binding, and cross-model faithfulness checks (Gemini/DeepSeek/Anthropic).
+- [Bazaar of Fates](https://github.com/ChiShengChen/bazaar-of-fates)
+  Eleven traditional divination systems (Western astrology, BaZi, Zi Wei Dou Shu, I Ching, Jyotiṣa, etc.) as deterministic calculation engines validated against Swiss Ephemeris, with a FastAPI backend generating bilingual AI-powered readings and a Next.js frontend for chart visualization and synastry analysis.
 - [Dao-Agent](https://github.com/ChiShengChen/dao-agent)
   Claude Code Skill that generates structured agent prompts using Taoist ritual metaphors, with 6 template types, multi-agent workflows, prompt linting, and token estimation.
 - [Shikigami](https://github.com/ChiShengChen/shikigami)
