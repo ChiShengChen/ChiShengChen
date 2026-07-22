@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-416%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![H-index](https://img.shields.io/badge/H--index-12-34A853?style=for-the-badge)
 ![i10-index](https://img.shields.io/badge/i10--index-16-FBBC05?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-243-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-279-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
