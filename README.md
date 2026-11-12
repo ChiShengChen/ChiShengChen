@@ -1,28 +1,15 @@
-<!--
-## Hi there 👋
-
-
-**ChiShengChen/ChiShengChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi there 👋, I'm Chi-Sheng "Michael" Chen</h1>
 
 <p align="center">
   AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>
-  Harvard Medical School & BIDMC, ex-OpenAI, ex-MediaTek, ex-Max Planck Institute <br>
-  Passionate about transforming data into intelligence 🧠⚡️
+  Harvard Medical School & BIDMC, ex-OpenAI, ex-MediaTek, ex-Max Planck Institute
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-517%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar citations" /></a>
+  <img src="https://img.shields.io/badge/H--index-13-34A853?style=for-the-badge" alt="H-index" />
+  <img src="https://img.shields.io/badge/i10--index-16-FBBC05?style=for-the-badge" alt="i10-index" />
+  <a href="https://github.com/ChiShengChen?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/ChiShengChen?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=GitHub%20Stars&color=181717" alt="GitHub Stars" /></a>
 </p>
 
 ---
@@ -34,15 +21,21 @@ Here are some ideas to get you started:
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 📝 Reviewer for **ICML**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
-- 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) ｜ [Website](https://chishengchen.github.io/)  
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-517%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
-![H-index](https://img.shields.io/badge/H--index-13-34A853?style=for-the-badge)
-![i10-index](https://img.shields.io/badge/i10--index-16-FBBC05?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-279-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en) ｜ [Website](https://chishengchen.github.io/)
 
 <!--
 - 📄 [My CV](https://github.com/ChiShengChen/CV)
 -->
+
+---
+
+### 📰 Recent News
+
+- **2026** — *Measuring Browser Webcam Gaze Honestly* accepted at the **MICCAI 2026 DEMI Workshop**.
+- **2026** — Two papers at **ICASSP 2026**: quantum RL-guided diffusion for image synthesis, and QASA for financial rebalancing on DeFi AMMs.
+- **2026** — **QASA** published in *Quantum Science and Technology*; QEEGNet cross-task/cross-dataset study published in *J. Signal Processing Systems*.
+- **2026** — **NVIDIA GTC 2026** Top 8 Finalist and **Berkeley RDI AgentX-AgentBeats** 3rd Place (Healthcare Agent).
+- **2025** — Transformer-assisted learning of Lindblad dynamics published in *Physical Review A*.
 
 ---
 
@@ -61,7 +54,7 @@ Here are some ideas to get you started:
 | 2023 | Ann. Biomed. Eng. | [Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network](https://doi.org/10.1007/s10439-022-03033-9) | 20 |
 | 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 7 |
 
-📊 Full list → [Google Scholar](https://scholar.google.com.tw/citations?user=5XHD7nkAAAAJ&hl=zh-TW) · *Citations recorded on 2026-11-12*
+📊 Full list → [Google Scholar](https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en) · *Citations recorded on 2026-11-12*
 
 ---
 
@@ -104,34 +97,28 @@ Here are some ideas to get you started:
 ### 🔬 Flagship Projects
 
 - [**Res-VMamba**](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
-  Fine-grained food classification using state space models with deep residual learning. *PLoS ONE, 71 citations.*
+  Fine-grained food classification using state space models with deep residual learning. *PLoS ONE 2025.*
 
 - [**MUSE EEG**](https://github.com/ChiShengChen/MUSE_EEG) ![Stars](https://img.shields.io/github/stars/ChiShengChen/MUSE_EEG?style=social)  
-  Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *34 citations.*
+  Mind's Eye: EEG-based image recognition using multimodal similarity-keeping contrastive learning. *arXiv 2024.*
 
 - [**QEEGNet**](https://github.com/ChiShengChen/QuantumEEGNet) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QuantumEEGNet?style=social)  
-  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024, 56 citations.*
+  Hybrid quantum-classical encoder model for EEG representation learning. *IEEE SiPS 2024.*
 
 - [**QASA**](https://github.com/ChiShengChen/QASA) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QASA?style=social)  
-  Quantum Adaptive Self-Attention for Quantum Transformer Models. *Quantum Sci. Technol. 2026, 32 citations.*
+  Quantum Adaptive Self-Attention for Quantum Transformer Models. *Quantum Sci. Technol. 2026.*
 
 - [**QCL**](https://github.com/ChiShengChen/QCL) ![Stars](https://img.shields.io/github/stars/ChiShengChen/QCL?style=social)
-  Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025, 22 citations.*
+  Quantum Multimodal Contrastive Learning for EEG-image analysis. *ICASSP 2025.*
 
 - [**LCM — Large Cognition Model**](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
-  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 30 citations.*
+  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv 2025](https://arxiv.org/abs/2502.17464).*
 
 - [**FreqLens**](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
   Interpretable Frequency Attribution for Time Series Forecasting.
 
 - [**Necomimi**](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
-  EEG-to-Image generation using diffusion models with neural cognitive alignment. *14 citations.*
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiShengChen&theme=github-light&area=true&hide_border=true" width="495"/>
-</p>
+  EEG-to-Image generation using diffusion models with neural cognitive alignment. *arXiv 2024.*
 
 ---
 
@@ -152,7 +139,7 @@ Here are some ideas to get you started:
 
 #### 🧠 EEG & Multimodal AI
 - [LCM — Large Cognition Model](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
-  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv](https://arxiv.org/abs/2502.17464), 30 citations.*
+  Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv 2025](https://arxiv.org/abs/2502.17464).*
 - [ASR-LLM-Medical Prediction Pipeline](https://github.com/ChiShengChen/Broadcastify_audio_pipeline)  
   A comprehensive two-stage pipeline for emergency medical service (EMS) call analysis, combining ASR evaluation with LLM enhancement for medical term correction, information extraction, and emergency page generation. [Related]: [Firefox Crawler for Broadcastify Audio Archives](https://github.com/ChiShengChen/broadcastify_mp3_crawler).
 - [dDTF — Dynamic Directed Transfer Function](https://github.com/ChiShengChen/dDTF)  
