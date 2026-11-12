@@ -64,24 +64,6 @@
 
 ---
 
-### 💼 Experience
-
-| Period | Organization | Role |
-|:------:|--------------|------|
-| 2024.11 – Present | Department of Surgery, Harvard Medical School & BIDMC | Research Affiliate (Advisor: Prof. Gabriel Brat) |
-| 2026.08 – Present | WhaleForce (VICI Holdings) | Fractional Token Efficiency Research Lead (Advisor) |
-| 2025.03 – 2025.10 | OpenAI (contractor via Mercor) | AI Trainer — RLHF data, preference ranking, model-behavior evaluation |
-| 2024.12 – 2026.02 | Bonanza Quant Corporation | Backend Engineer |
-| 2024.09 – 2026.05 | Omnis Labs | Co-Founder |
-| 2024.03 – 2025.01 | Neuro Industry, Inc. | Researcher, Co-Founder & CTO |
-| 2023.12 – 2024.08 | Department of Computer Science, NYCU | Research Assistant (Advisor: Prof. Chun-Shu Wei) |
-| 2021.12 – 2023.10 | MediaTek Inc. | Digital IC R&D Engineer |
-| 2021.07 – 2021.09 | Department of Surgery, National Taiwan University Hospital | Research Assistant (Advisor: Dr. Shuo-Lun Lai) |
-| 2019.09 – 2021.06 | Department of Psychiatry, Taipei Veterans General Hospital | Research Assistant (Advisor: Prof. Cheng-Ta Li) |
-| 2018.07 – 2018.09 | Max Planck Institute for Chemical Physics of Solids | Research Intern (Advisors: Dr. Alexander Komarek & Dr. Li Zhao) |
-
----
-
 ### 🎓 Education
 
 | Period | Degree | Institution |
