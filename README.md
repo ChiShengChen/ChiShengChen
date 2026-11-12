@@ -332,24 +332,14 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PennyLane-6C5CE7?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Whisper-74AA9C?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
+| Area | Tools |
+|------|-------|
+| **🧠 ML & Deep Learning** | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/-DeepSpeed-0A66C2?style=flat-square" alt="DeepSpeed" /> <img src="https://img.shields.io/badge/-NVIDIA_NeMo-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NeMo" /> <img src="https://img.shields.io/badge/-Unsloth-2E7D32?style=flat-square" alt="Unsloth" /> <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" /> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/-XGBoost-189FDD?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" /> |
+| **⚛️ Quantum** | <img src="https://img.shields.io/badge/-PennyLane-6C5CE7?style=flat-square" alt="PennyLane" /> <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" /> |
+| **🤖 LLM & Agents** | <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/-Whisper-74AA9C?style=flat-square" alt="Whisper" /> |
+| **🌐 Web & Infra** | <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square" alt="Playwright" /> <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /> <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" /> |
+| **🔗 Web3** | <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" /> <img src="https://img.shields.io/badge/-Anchor-512DA8?style=flat-square" alt="Anchor" /> <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" /> <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> |
+| **🔧 Hardware & Scientific** | <img src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/-Verilog-8B0000?style=flat-square" alt="Verilog" /> <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square" alt="MATLAB" /> <img src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black" alt="LabVIEW" /> <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" /> |
 
 ---
 
