@@ -32,30 +32,61 @@
 
 ### 📰 Recent News
 
-- **2026** — *Measuring Browser Webcam Gaze Honestly* accepted at the **MICCAI 2026 DEMI Workshop**.
-- **2026** — Two papers at **ICASSP 2026**: quantum RL-guided diffusion for image synthesis, and QASA for financial rebalancing on DeFi AMMs.
-- **2026** — **QASA** published in *Quantum Science and Technology*; QEEGNet cross-task/cross-dataset study published in *J. Signal Processing Systems*.
-- **2026** — **NVIDIA GTC 2026** Top 8 Finalist and **Berkeley RDI AgentX-AgentBeats** 3rd Place (Healthcare Agent).
-- **2025** — Transformer-assisted learning of Lindblad dynamics published in *Physical Review A*.
+- **Sep–Oct 2026** — Presented at **MICCAI 2026** (Strasbourg): spotlight talk at the [DEMI workshop](https://demi-workshop.github.io/) and a poster at CLINICCAI Clinical Day.
+- **Aug 2026** — *Measuring Browser Webcam Gaze Honestly* accepted at the **MICCAI 2026 DEMI Workshop** (with Prof. Gabriel Brat). [[OpenReview]](https://openreview.net/forum?id=VNRuJI79iq)
+- **Jun 2026** — Two short papers accepted at **Digital Humanities 2026 (DH2026)**.
+- **May 2026** — Recognized as **ICML 2026 Gold Reviewer**.
+- **Mar 2026** — **NVIDIA GTC 2026** Top 8 Finalist: GPU-Accelerated Chinese Brain-to-Text Interface.
+- **Jan 2026** — Two papers accepted at **ICASSP 2026** (both oral).
 
 ---
 
 ### 📄 Selected Publications
 
-| Year | Venue | Title | Citations |
-|:----:|:-----:|-------|:---------:|
-| 2024 | arXiv / PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) · [PLoS ONE 2025](https://doi.org/10.1371/journal.pone.0322695) | 71 + 16 |
-| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 56 |
-| 2025 | IEEE CIBCB | [Enhancing Clinical Decision-Making: Integrating Multi-Agent Systems with Ethical AI Governance](https://arxiv.org/abs/2504.03699) | 48 |
-| 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 34 |
-| 2026 | Quantum Sci. Technol. | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 32 |
-| 2025 | arXiv | [Large Cognition Model: Towards Pretrained EEG Foundation Model](https://arxiv.org/abs/2502.17464) | 30 |
-| 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 22 |
-| 2023 | J. Affective Disorders | [Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals](https://doi.org/10.1016/j.jad.2023.08.049) | 22 |
-| 2023 | Ann. Biomed. Eng. | [Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network](https://doi.org/10.1007/s10439-022-03033-9) | 20 |
-| 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 7 |
+| Year | Venue | Title | Author | Citations |
+|:----:|:-----:|-------|:------:|:---------:|
+| 2024 | arXiv / PLoS ONE | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) · [PLoS ONE 2025](https://doi.org/10.1371/journal.pone.0322695) | 1st | 71 + 16 |
+| 2024 | IEEE SiPS | [QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding](https://ieeexplore.ieee.org/document/10768221) | 1st | 56 |
+| 2025 | IEEE CIBCB | [Enhancing Clinical Decision-Making: Integrating Multi-Agent Systems with Ethical AI Governance](https://arxiv.org/abs/2504.03699) | Last | 48 |
+| 2024 | arXiv | [Mind's Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learning](https://arxiv.org/abs/2406.16910) | 1st | 34 |
+| 2026 | Quantum Sci. Technol. | [QASA: Quantum Adaptive Self-Attention for Quantum Transformer Models](https://arxiv.org/abs/2504.05336) | 1st | 32 |
+| 2025 | arXiv | [Large Cognition Model: Towards Pretrained EEG Foundation Model](https://arxiv.org/abs/2502.17464) | 1st | 30 |
+| 2025 | ICASSP | [Quantum Multimodal Contrastive Learning Framework](https://ieeexplore.ieee.org/document/10889504) | 1st | 22 |
+| 2023 | J. Affective Disorders | [Prediction of Antidepressant Responses to Non-Invasive Brain Stimulation Using Frontal EEG Signals](https://doi.org/10.1016/j.jad.2023.08.059) | 2nd | 22 |
+| 2023 | Ann. Biomed. Eng. | [Intraoperative Detection of Surgical Gauze Using Deep Convolutional Neural Network](https://doi.org/10.1007/s10439-022-03033-9) | 2nd | 20 |
+| 2026 | J. Signal Process. Syst. | [Exploring the Potential of QEEGNet for Cross-Task and Cross-Dataset EEG Encoding with Quantum Machine Learning](https://doi.org/10.1007/s11265-025-01979-2) | 1st | 13 |
+| 2025 | IEEE QCE | [Quantum RL Trading Agent for Sector Rotation in the Taiwan Stock Market](https://ieeexplore.ieee.org/document/11250048) | 1st | 7 |
+| 2025 | Physical Review A | [Unraveling Quantum Environments: Transformer-Assisted Learning in Lindblad Dynamics](https://doi.org/10.1103/gsxk-45mk) | 1st | 5 |
+| 2026 | ICASSP (Oral) | [Quantum RL-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Architectures](https://doi.org/10.1109/ICASSP55912.2026.11461991) | 1st | 4 |
 
 📊 Full list → [Google Scholar](https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en) · *Citations recorded on 2026-11-12*
+
+---
+
+### 💼 Experience
+
+| Period | Organization | Role |
+|:------:|--------------|------|
+| 2024.11 – Present | Department of Surgery, Harvard Medical School & BIDMC | Research Affiliate (Advisor: Prof. Gabriel Brat) |
+| 2026.08 – Present | WhaleForce (VICI Holdings) | Fractional Token Efficiency Research Lead (Advisor) |
+| 2025.03 – 2025.10 | OpenAI (contractor via Mercor) | AI Trainer — RLHF data, preference ranking, model-behavior evaluation |
+| 2024.12 – 2026.02 | Bonanza Quant Corporation | Backend Engineer |
+| 2024.09 – 2026.05 | Omnis Labs | Co-Founder |
+| 2024.03 – 2025.01 | Neuro Industry, Inc. | Researcher, Co-Founder & CTO |
+| 2023.12 – 2024.08 | Department of Computer Science, NYCU | Research Assistant (Advisor: Prof. Chun-Shu Wei) |
+| 2021.12 – 2023.10 | MediaTek Inc. | Digital IC R&D Engineer |
+| 2021.07 – 2021.09 | Department of Surgery, National Taiwan University Hospital | Research Assistant (Advisor: Dr. Shuo-Lun Lai) |
+| 2019.09 – 2021.06 | Department of Psychiatry, Taipei Veterans General Hospital | Research Assistant (Advisor: Prof. Cheng-Ta Li) |
+| 2018.07 – 2018.09 | Max Planck Institute for Chemical Physics of Solids | Research Intern (Advisors: Dr. Alexander Komarek & Dr. Li Zhao) |
+
+---
+
+### 🎓 Education
+
+| Period | Degree | Institution |
+|:------:|--------|-------------|
+| 2019 – 2021 | M.S., Biomedical Electronics and Bioinformatics ([thesis](https://doi.org/10.6342/NTU202101201)) | National Taiwan University |
+| 2015 – 2019 | B.Eng., Electrophysics · B.S., Interdisciplinary Science (dual degree) | National Chiao Tung University (now NYCU) |
 
 ---
 
@@ -78,9 +109,6 @@
 
 - [**LCM — Large Cognition Model**](https://github.com/ChiShengChen/LCMv1) ![Stars](https://img.shields.io/github/stars/ChiShengChen/LCMv1?style=social)
   Self-supervised EEG foundation model using momentum contrastive learning and masked reconstruction for pretraining on cross-montage EEG data. *[arXiv 2025](https://arxiv.org/abs/2502.17464).*
-
-- [**FreqLens**](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
-  Interpretable Frequency Attribution for Time Series Forecasting.
 
 - [**Necomimi**](https://github.com/ChiShengChen/EEG_gen_img_NECOMIMI)  
   EEG-to-Image generation using diffusion models with neural cognitive alignment. *arXiv 2024.*
@@ -166,6 +194,8 @@
   Automated matching of trauma activation registry data with EMS audio recordings using time-window, demographics, and injury pattern matching.
 
 #### ⏳ Time-series Deep Learning
+- [FreqLens](https://github.com/ChiShengChen/FreqLens) ![Stars](https://img.shields.io/github/stars/ChiShengChen/FreqLens?style=social)
+  Interpretable Frequency Attribution for Time Series Forecasting. *[arXiv 2026](https://arxiv.org/abs/2602.08768).*
 - [BTSPFormer](https://github.com/ChiShengChen/BTSPFormer)  
   Transformer-based time-series model inspired by behavioral-timescale synaptic plasticity (BTSP), designed for predictive learning on damped signals.
 - [Time-Series Forecasting Benchmark Framework](https://github.com/ChiShengChen/My_TS_working_framework)
@@ -346,5 +376,9 @@
 
 ### 🧠 Let's Connect
 
-- ✉️ Email: m50816m50816@gmail.com
+- ✉️ Email: m50816m50816 [at] gmail.com
+- 🌐 Website: [chishengchen.github.io](https://chishengchen.github.io/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-0807-0217) · [OpenReview](https://openreview.net/profile?id=~Chi-Sheng_Chen1)
 - 💼 LinkedIn: [Michael Chi-Sheng Chen](https://www.linkedin.com/in/michael-chi-sheng-chen-257359137/)
+- 🤗 Hugging Face: [ms57rd](https://huggingface.co/ms57rd)
+- ✍️ [Medium](https://medium.com/@m50816m50816) · [Tech Blog](https://chishengchen.github.io/meownote.github.io/archives/)
