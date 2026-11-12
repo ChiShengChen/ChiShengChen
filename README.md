@@ -2,7 +2,7 @@
 
 <p align="center">
   AI Researcher ｜ Time-Series + Biomedical AI + Quantum ML <br>
-  Harvard Medical School & BIDMC, ex-OpenAI, ex-MediaTek, ex-Max Planck Institute <br>
+  Harvard Medical School & BIDMC, ex-MediaTek, ex-Max Planck Institute <br>
   Passionate about transforming data into intelligence 🧠⚡️
 </p>
 
@@ -21,7 +21,7 @@
 - 🧠 Building the EEG Foundation Model for brain signal understanding (AI x EEG x Psychiatry).
 - 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
-- 📝 Reviewer for **ICML**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
+- 📝 Reviewer for **NeurIPS 2026**, **ICML 2026** (🥇 Gold Reviewer), **AAAI 2027**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en) ｜ [Website](https://chishengchen.github.io/)
 
 <!--
