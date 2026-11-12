@@ -19,7 +19,8 @@
 
 - 🧪 Researcher at Harvard Medical School & BIDMC (AI x Surgical Informatics).
 - 🧠 Building the EEG Foundation Model for brain signal understanding (AI x EEG x Psychiatry).
-- 🔐 DeFAI Researcher at Omnis Labs (AI x DeFi x Finance).
+- 📈 Research Advisor at WhaleForce (VICI Holdings) on LLM token efficiency and multi-agent systems (AI x Quant Trading).
+- 🔐 Previously co-founded Omnis Labs, an AI-driven DeFi liquidity protocol (AI x DeFi).
 - 🌱 Currently exploring Quantum Machine Learning, Quant Finance, DeFAI and Brain-Computer Interfaces.
 - 📝 Reviewer for **NeurIPS 2026**, **ICML 2026** (🥇 Gold Reviewer), **AAAI 2027**, **KDD**, **MICCAI**, **ICASSP**, **IEEE TPAMI**, **TNNLS**, and more.
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=5XHD7nkAAAAJ&hl=en) ｜ [Website](https://chishengchen.github.io/)
