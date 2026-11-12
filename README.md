@@ -64,15 +64,6 @@
 
 ---
 
-### 🎓 Education
-
-| Period | Degree | Institution |
-|:------:|--------|-------------|
-| 2019 – 2021 | M.S., Biomedical Electronics and Bioinformatics ([thesis](https://doi.org/10.6342/NTU202101201)) | National Taiwan University |
-| 2015 – 2019 | B.Eng., Electrophysics · B.S., Interdisciplinary Science (dual degree) | National Chiao Tung University (now NYCU) |
-
----
-
 ### 🔬 Flagship Projects
 
 - [**Res-VMamba**](https://github.com/ChiShengChen/ResVMamba) ![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba?style=social)  
